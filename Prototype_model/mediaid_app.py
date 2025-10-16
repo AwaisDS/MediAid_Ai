@@ -179,7 +179,8 @@ else:
     if st.sidebar.button("Logout"):
         st.session_state.logged_in = False
         st.session_state.user = None
-        st.experimental_rerun()
+        st.rerun()
+
 
     st.markdown("<div class='title'>💉 MediAid AI — Disease Prediction</div>", unsafe_allow_html=True)
     st.markdown("<div class='subtitle'>AI-driven health insights and explainability</div>", unsafe_allow_html=True)
@@ -311,66 +312,7 @@ else:
                 st.write("### 💊 Recommended Medicines:")
                 st.info(recommended_medicines.get(prediction[0], "Consult a healthcare provider."))
 
-  # SHAP Explain
-try:
-    explainer = shap.TreeExplainer(model)
-    shap_values = explainer.shap_values(df_input)
-
-    # Get predicted label and index
-    pred_label = prediction[0] if isinstance(prediction, (list, np.ndarray)) else prediction
-    pred_label = pred_label.item() if hasattr(pred_label, "item") else pred_label
-    idx = int(np.where(np.array(model.classes_) == pred_label)[0][0])
-
-    # Handle different shap shapes
-    if isinstance(shap_values, list):
-        # multiclass: list of arrays
-        class_shap = shap_values[idx][0]
-    elif shap_values.ndim == 3:
-        # multiclass: single 3D array (1, features, classes)
-        class_shap = shap_values[0, :, idx]
-    elif shap_values.ndim == 2:
-        # binary/multiclass single sample
-        class_shap = shap_values[0]
-    else:
-        raise ValueError(f"Unexpected shap array dims: {shap_values.ndim}")
-
-    # Get expected value
-    expected = explainer.expected_value
-    if isinstance(expected, (list, tuple, np.ndarray)):
-        ev = expected[idx] if len(expected) > 1 else expected[0]
-    else:
-        ev = expected
-
-    # Create impact DataFrame
-    impact = np.abs(class_shap).flatten()
-    imp_df = (
-        pd.DataFrame({'feature': df_input.columns, 'impact': impact})
-        .sort_values('impact', ascending=False)
-        .head(8)
-    )
-
-    st.write("Top Influential Symptoms:")
-    st.bar_chart(imp_df.set_index('feature'))
-
-    st.write("Detailed SHAP Force Plot:")
-    st_shap(shap.force_plot(ev, class_shap, df_input))
-
-except Exception as e:
-    st.error(f"Error computing SHAP: {e}")
-    try:
-        sv_shape = (
-            [arr.shape for arr in shap_values] if isinstance(shap_values, list) else shap_values.shape
-        )
-    except Exception:
-        sv_shape = "unknown"
-
-    st.write("Debug info:")
-    st.write(f"model.classes_: {model.classes_}")
-    st.write(f"pred_label: {pred_label}")
-    st.write(f"index found (idx): {locals().get('idx', 'not available')}")
-    st.write(f"shap_values shape(s): {sv_shape}")
-    st.write(f"df_input.shape: {df_input.shape}")
-
+    st.markdown("</div>", unsafe_allow_html=True)
 
     # -------------------------
     # About Us Tab
