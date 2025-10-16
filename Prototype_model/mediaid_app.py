@@ -7,6 +7,7 @@ import numpy as np
 import joblib
 import hashlib
 import os
+import pickle
 
 try:
     import shap
@@ -123,6 +124,14 @@ else:
 # else:
 #     st.error("feature_names.pkl not found. Please add it to the project folder.")
 #     st.stop()
+base_path = os.path.dirname(__file__)
+file_path = os.path.join(base_path, "feature_names.pkl")
+
+if not os.path.exists(file_path):
+    st.error(f"{file_path} not found. Please add it to the project folder.")
+else:
+    with open(file_path, "rb") as f:
+        feature_names = pickle.load(f)
 
 
 # -------------------------
