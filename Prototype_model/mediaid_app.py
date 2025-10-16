@@ -116,13 +116,13 @@ if os.path.exists(MODEL_PATH) and os.path.exists(LE_PATH) and os.path.exists(SCA
 else:
     model_missing = True
 
-FEATURES_PATH = 'C:\\Users\\pc\\Desktop\\MediAid_Ai\\Prototype_model\\feature_names.pkl'
+# FEATURES_PATH = 'C:\\Users\\pc\\Desktop\\MediAid_Ai\\Prototype_model\\feature_names.pkl'
 
-if os.path.exists(FEATURES_PATH):
-    expected_features = joblib.load(FEATURES_PATH)
-else:
-    st.error("feature_names.pkl not found. Please add it to the project folder.")
-    st.stop()
+# if os.path.exists(FEATURES_PATH):
+#     expected_features = joblib.load(FEATURES_PATH)
+# else:
+#     st.error("feature_names.pkl not found. Please add it to the project folder.")
+#     st.stop()
 
 
 # -------------------------
