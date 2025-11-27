@@ -1,6 +1,3 @@
-# mediaid_app.py
-# MediAid AI - Streamlit app (Dark mode + Login/Signup + SHAP + Feature alignment)
-
 import streamlit as st
 import pandas as pd
 import numpy as np
@@ -9,17 +6,9 @@ import hashlib
 import os
 import pickle
 
-try:
-    import shap
-    from streamlit_shap import st_shap
-    SHAP_AVAILABLE = True
-except Exception:
-    SHAP_AVAILABLE = False
 
 
-# -------------------------
 # Helper functions
-# -------------------------
 USERS_FILE = "users.csv"
 
 def make_hashes(password):
@@ -41,18 +30,14 @@ def verify_credentials(username, password):
     return not match.empty
 
 
-# -------------------------
 # Session state
-# -------------------------
 if "logged_in" not in st.session_state:
     st.session_state.logged_in = False
 if "user" not in st.session_state:
     st.session_state.user = None
 
 
-# -------------------------
 # Dark Mode Styling
-# -------------------------
 st.set_page_config(page_title="MediAid AI", page_icon="💉", layout="wide")
 
 dark_css = """
@@ -94,12 +79,30 @@ dark_css = """
 st.markdown(dark_css, unsafe_allow_html=True)
 
 
-# -------------------------
 # Load Model and Preprocessors
-# -------------------------
-MODEL_PATH = 'C:\\Users\\pc\\Desktop\\MediAid_Ai\\Prototype_model\\medi_aid_disease_model.pkl'
-LE_PATH = 'C:\\Users\\pc\\Desktop\\MediAid_Ai\\Prototype_model\\medi_aid_label_encoders.pkl'
-SCALER_PATH = 'C:\\Users\\pc\\Desktop\\MediAid_Ai\\Prototype_model\\medi_aid_scaler.pkl'
+
+
+
+# MODEL_PATH = 'Prototype_model\\medi_aid_disease_model.pkl'
+# LE_PATH = 'Prototype_model\\medi_aid_label_encoders.pkl'
+# SCALER_PATH = 'Prototype_model\\medi_aid_scaler.pkl'
+
+
+BASE_DIR = os.path.dirname(__file__)  # Folder of app.py
+
+MODEL_PATH = os.path.join(BASE_DIR, "Prototype_model", "medi_aid_disease_model.pkl")
+LE_PATH = os.path.join(BASE_DIR, "Prototype_model", "medi_aid_label_encoders.pkl")
+SCALER_PATH = os.path.join(BASE_DIR, "Prototype_model", "medi_aid_scaler.pkl")
+
+# Load files
+with open(MODEL_PATH, "rb") as f:
+    model = pickle.load(f)
+
+with open(LE_PATH, "rb") as f:
+    label_encoders = pickle.load(f)
+
+with open(SCALER_PATH, "rb") as f:
+    scaler = pickle.load(f)
 
 model = None
 label_encoders = None
@@ -124,19 +127,22 @@ else:
 # else:
 #     st.error("feature_names.pkl not found. Please add it to the project folder.")
 #     st.stop()
-base_path = os.path.dirname(__file__)
-file_path = os.path.join(base_path, "feature_names.pkl")
+# base_path = os.path.dirname(__file__)
+# file_path = os.path.join(base_path, "feature_names.pkl")
 
-if not os.path.exists(file_path):
-    st.error(f"{file_path} not found. Please add it to the project folder.")
-else:
-    with open(file_path, "rb") as f:
-        feature_names = pickle.load(f)
+# if not os.path.exists(file_path):
+#     st.error(f"{file_path} not found. Please add it to the project folder.")
+# else:
+#     with open(file_path, "rb") as f:
+#         feature_names = pickle.load(f)
 
+FEATURE_NAMES_PATH = os.path.join(BASE_DIR, "Prototype_model", "feature_names.pkl")
 
-# -------------------------
+# Load feature names
+with open(FEATURE_NAMES_PATH, "rb") as f:
+    feature_names = pickle.load(f)
 # Login / Signup Screen
-# -------------------------
+
 if not st.session_state.logged_in:
     st.markdown("<div class='title'>💉 MediAid AI</div>", unsafe_allow_html=True)
     st.markdown("<div class='subtitle'>Sign in to access the MediAid AI predictor</div>", unsafe_allow_html=True)
@@ -180,9 +186,8 @@ if not st.session_state.logged_in:
     st.markdown("<br><div class='footer'>Developed by Team MediAid AI — Awais • Urooj • Aqib • Suleman</div>", unsafe_allow_html=True)
 
 
-# -------------------------
 # Main App (After Login)
-# -------------------------
+
 else:
     st.sidebar.markdown(f"**Logged in as:** `{st.session_state.user}`")
     if st.sidebar.button("Logout"):
@@ -196,9 +201,8 @@ else:
 
     tab1, tab2 = st.tabs(["🏥 Prediction", "👨‍⚕️ About Us"])
 
-    # -------------------------
     # Prediction Tab
-    # -------------------------
+
     with tab1:
         st.markdown("<div class='big-card'>", unsafe_allow_html=True)
         st.header("🩺 Symptom-Based Prediction")
@@ -208,6 +212,7 @@ else:
             st.stop()
 
         # Sidebar inputs
+
         st.sidebar.header("Patient Info")
         age = st.sidebar.slider("Age", 1, 100, 25)
         gender = st.sidebar.selectbox("Gender", ["Male", "Female", "Other"])
@@ -216,6 +221,7 @@ else:
         comorbidity = st.sidebar.selectbox("Comorbidity", ["None","Diabetes","Hypertension","Chronic Lung Disease","HIV","Heart Disease"])
 
         # Full expected feature list
+
         expected_features = [
             'age','gender','region','duration_days','comorbidity',
             'abdominal_pain','back_pain','chest_pain','chills','conjunctivitis','constipation','cough','dark_urine',
@@ -237,17 +243,20 @@ else:
                 st.warning("Please select at least one symptom.")
             else:
                 # Build safe input DataFrame
+
                 row = {s: (1 if s in selected_symptoms else 0) for s in expected_features if s not in ['age','gender','region','duration_days','comorbidity']}
                 row.update({'age': age, 'gender': gender, 'region': region, 'duration_days': duration_days, 'comorbidity': comorbidity})
                 df_input = pd.DataFrame([row])
 
                 # Ensure all expected columns exist and in order
+
                 for col in expected_features:
                     if col not in df_input.columns:
                         df_input[col] = 0
                 df_input = df_input[expected_features]
 
                 # Encode categorical fields safely
+
                 for col in ['gender','region','comorbidity']:
                     le = label_encoders.get(col, None)
                     if le is not None:
@@ -259,32 +268,39 @@ else:
                         df_input[col] = 0
 
                 # Scale numerical safely
+
                 if scaler is not None:
                     try:
                         df_input[['age','duration_days']] = scaler.transform(df_input[['age','duration_days']])
                     except Exception as e:
                         st.warning(f"Scaler issue: {e}")
                 # Ensure df_input matches the exact order of training features
+
                 missing_cols = [col for col in expected_features if col not in df_input.columns]
                 extra_cols = [col for col in df_input.columns if col not in expected_features]
 
                 # Add missing columns as 0
+
                 for col in missing_cols:
                     df_input[col] = 0
 
                 # Drop unexpected extra columns
+
                 df_input = df_input[[c for c in df_input.columns if c in expected_features]]
 
                 # Finally, reorder columns exactly as the model was trained
+
                 df_input = df_input[expected_features]
 
                 # Predict
                 #prediction = model.predict(df_input)[0]
+
                 prediction = model.predict(df_input.to_numpy().reshape(1, -1))
 
                 st.success(f"### 🧠 Predicted Disease: {prediction}")
 
                 # Recommendations
+
                 recommended_tests = {
                     "Dengue": "NS1 antigen, CBC (platelets)",
                     "Malaria": "RDT, Blood smear",
