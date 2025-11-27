@@ -1,0 +1,1001 @@
+age,gender,region,duration_days,comorbidity,disease,present_symptoms,recommended_tests,recommended_medicines
+84,Female,Islamabad Capital Territory,7,Diabetes,Hepatitis C,"Cough, Nausea, Vomiting, Skin Rash",X-Ray,Ibuprofen
+81,Male,Gilgit-Baltistan,12,None,Whooping Cough,"Nausea, Fatigue, Headache","X-Ray, Stool Test","ORS, Vitamin C"
+77,Male,Azad Kashmir,18,Kidney Disease,Chickenpox,"Nausea, Headache, Fatigue, Vomiting, Fever","Urine Test, Ultrasound, PCR","Ibuprofen, Vitamin C, Antibiotics"
+73,Male,Islamabad Capital Territory,19,Hypertension,Leishmaniasis,"Skin Rash, Nausea, Fever",Ultrasound,"ORS, Ibuprofen"
+82,Female,Islamabad Capital Territory,1,Asthma,Scabies,"Cough, Shortness of Breath, Nausea",CBC,"Antimalarial, Antibiotics, Ibuprofen"
+30,Male,Balochistan,7,Asthma,Measles,"Abdominal Pain, Fever, Vomiting","Urine Test, Blood Test",Antimalarial
+18,Female,Islamabad Capital Territory,24,None,Influenza,"Abdominal Pain, Nausea, Shortness of Breath, Muscle Pain",Ultrasound,"Ibuprofen, Paracetamol"
+59,Male,Islamabad Capital Territory,9,Liver Disease,Hepatitis B,"Fatigue, Abdominal Pain, Skin Rash, Nausea","Urine Test, Blood Test, Stool Test",ORS
+66,Male,Azad Kashmir,4,None,Influenza,"Skin Rash, Muscle Pain","Ultrasound, Urine Test",ORS
+82,Female,Sindh,27,None,Dengue Fever,"Shortness of Breath, Abdominal Pain, Skin Rash",Urine Test,"Antihistamine, ORS, Ibuprofen"
+65,Male,Punjab,24,Hypertension,Whooping Cough,"Muscle Pain, Abdominal Pain, Fatigue, Fever, Cough","CBC, Stool Test","Vitamin C, ORS"
+66,Male,Balochistan,29,Heart Disease,Leishmaniasis,"Fever, Abdominal Pain, Skin Rash",PCR,"Antimalarial, Antibiotics"
+89,Female,Azad Kashmir,9,Kidney Disease,Asthma,"Muscle Pain, Abdominal Pain, Fever","PCR, Stool Test, Urine Test","Antimalarial, Paracetamol"
+72,Male,Azad Kashmir,19,Liver Disease,Influenza,"Vomiting, Muscle Pain, Cough","Ultrasound, PCR, Urine Test",Antibiotics
+42,Female,Punjab,21,Kidney Disease,Leishmaniasis,"Shortness of Breath, Headache, Fever, Muscle Pain, Cough","Ultrasound, CBC","Paracetamol, Antibiotics, Antimalarial"
+63,Female,Gilgit-Baltistan,4,Liver Disease,Whooping Cough,"Nausea, Muscle Pain","X-Ray, CBC, Stool Test","Paracetamol, Vitamin C, Antihistamine"
+29,Female,Sindh,23,None,Scabies,"Muscle Pain, Fever, Abdominal Pain, Cough, Shortness of Breath","Stool Test, Ultrasound, PCR","Ibuprofen, ORS, Antihistamine"
+48,Male,Balochistan,12,None,Scabies,"Nausea, Abdominal Pain, Fever","CBC, Stool Test","Paracetamol, Vitamin C, Antihistamine"
+9,Female,Khyber Pakhtunkhwa,8,Liver Disease,Typhoid,"Vomiting, Nausea, Fever, Muscle Pain","X-Ray, PCR","Antimalarial, Antibiotics"
+57,Female,Balochistan,16,Liver Disease,Pneumonia,"Skin Rash, Nausea, Fever, Headache, Vomiting","Urine Test, Blood Test","Paracetamol, Vitamin C"
+26,Female,Islamabad Capital Territory,16,Heart Disease,Hepatitis C,"Fever, Abdominal Pain, Nausea","Ultrasound, X-Ray","Antihistamine, Ibuprofen, Paracetamol"
+83,Male,Balochistan,8,Asthma,Chickenpox,"Nausea, Fatigue, Cough","Blood Test, Ultrasound","Antimalarial, ORS, Antibiotics"
+31,Male,Punjab,15,None,Meningitis,"Headache, Nausea, Fatigue","PCR, Blood Test, CBC","Antimalarial, ORS"
+57,Female,Punjab,11,None,Leishmaniasis,"Muscle Pain, Nausea","Urine Test, PCR","Ibuprofen, ORS, Paracetamol"
+12,Female,Azad Kashmir,12,None,Rabies,"Cough, Fatigue, Fever, Abdominal Pain, Vomiting","X-Ray, Blood Test, Stool Test","Paracetamol, Vitamin C"
+71,Male,Punjab,17,Heart Disease,Leishmaniasis,"Headache, Cough, Fever, Abdominal Pain, Fatigue",PCR,"Ibuprofen, Paracetamol"
+38,Female,Punjab,12,Hypertension,Pneumonia,"Fever, Vomiting, Headache, Muscle Pain",Urine Test,"Antihistamine, Paracetamol"
+41,Female,Gilgit-Baltistan,28,Liver Disease,Chickenpox,"Fatigue, Nausea, Vomiting","CBC, PCR, Urine Test",Antibiotics
+70,Male,Khyber Pakhtunkhwa,4,Asthma,Chickenpox,"Abdominal Pain, Cough, Muscle Pain, Nausea",X-Ray,"Vitamin C, Antihistamine, Paracetamol"
+40,Male,Sindh,3,None,Diarrhea,"Cough, Muscle Pain",Blood Test,"ORS, Vitamin C"
+58,Male,Islamabad Capital Territory,10,Diabetes,Dengue Fever,"Shortness of Breath, Skin Rash, Muscle Pain, Fatigue","X-Ray, Stool Test, Ultrasound","ORS, Ibuprofen"
+23,Female,Khyber Pakhtunkhwa,19,Hypertension,Diarrhea,"Skin Rash, Shortness of Breath, Cough, Nausea, Headache",Blood Test,Antimalarial
+4,Female,Islamabad Capital Territory,23,Liver Disease,Typhoid,"Abdominal Pain, Shortness of Breath, Fatigue, Skin Rash",X-Ray,"Vitamin C, Paracetamol"
+2,Female,Punjab,6,Kidney Disease,Typhoid,"Abdominal Pain, Vomiting, Fever, Headache","Urine Test, CBC, Stool Test","Antihistamine, ORS, Antibiotics"
+74,Male,Khyber Pakhtunkhwa,6,Kidney Disease,Dengue Fever,"Headache, Fatigue",Ultrasound,"Ibuprofen, Vitamin C, Antimalarial"
+34,Male,Sindh,14,Heart Disease,Whooping Cough,"Fatigue, Vomiting, Headache, Muscle Pain","PCR, X-Ray, Urine Test","Vitamin C, Paracetamol"
+67,Female,Gilgit-Baltistan,8,Asthma,Typhoid,"Vomiting, Headache",X-Ray,Antihistamine
+78,Male,Sindh,3,Diabetes,Dengue Fever,"Skin Rash, Nausea, Vomiting, Abdominal Pain",Stool Test,"ORS, Antibiotics"
+56,Female,Azad Kashmir,3,Hypertension,Measles,"Muscle Pain, Abdominal Pain, Fever, Fatigue, Cough","X-Ray, PCR, Stool Test",Paracetamol
+84,Female,Azad Kashmir,11,None,Scabies,"Fever, Skin Rash, Abdominal Pain, Nausea, Headache","CBC, X-Ray, Stool Test","Paracetamol, Antimalarial, Ibuprofen"
+7,Male,Gilgit-Baltistan,18,Asthma,Whooping Cough,"Muscle Pain, Abdominal Pain, Cough",X-Ray,Paracetamol
+46,Male,Balochistan,15,Hypertension,Chickenpox,"Skin Rash, Fatigue, Vomiting, Abdominal Pain",Blood Test,Ibuprofen
+53,Female,Sindh,4,Kidney Disease,Scabies,"Nausea, Skin Rash, Vomiting",Stool Test,"Antihistamine, Antibiotics, Ibuprofen"
+31,Male,Balochistan,15,Heart Disease,Malaria,"Fatigue, Fever, Abdominal Pain, Nausea","X-Ray, Stool Test, Urine Test","Antihistamine, Vitamin C, Antibiotics"
+55,Female,Sindh,18,Heart Disease,Typhoid,"Nausea, Muscle Pain, Cough","Stool Test, CBC, PCR",Antimalarial
+76,Female,Punjab,29,Diabetes,Dengue Fever,"Abdominal Pain, Muscle Pain, Cough","PCR, Urine Test, Stool Test",Vitamin C
+13,Female,Sindh,27,Heart Disease,Polio,"Muscle Pain, Headache, Abdominal Pain","Ultrasound, Blood Test, PCR",Antibiotics
+59,Male,Balochistan,25,Asthma,Hepatitis A,"Muscle Pain, Abdominal Pain, Headache","Ultrasound, Urine Test","Vitamin C, Antibiotics"
+87,Male,Khyber Pakhtunkhwa,5,Hypertension,Typhoid,"Fatigue, Nausea, Shortness of Breath",Stool Test,"Antihistamine, ORS"
+1,Female,Azad Kashmir,3,Diabetes,Whooping Cough,"Nausea, Fatigue","Ultrasound, Stool Test, PCR",Paracetamol
+33,Female,Azad Kashmir,4,Diabetes,Leishmaniasis,"Muscle Pain, Fever, Fatigue","Urine Test, PCR","Ibuprofen, ORS"
+50,Female,Gilgit-Baltistan,3,Kidney Disease,Dengue Fever,"Muscle Pain, Fatigue","Stool Test, Urine Test","Vitamin C, ORS, Ibuprofen"
+89,Male,Balochistan,8,Hypertension,Scabies,"Fever, Nausea, Muscle Pain, Vomiting","Stool Test, Blood Test, X-Ray",Paracetamol
+83,Male,Azad Kashmir,23,Liver Disease,Polio,"Fever, Nausea, Vomiting, Muscle Pain","X-Ray, PCR, Stool Test","Vitamin C, Antibiotics"
+68,Male,Punjab,9,Heart Disease,Hepatitis C,"Cough, Vomiting",Stool Test,"ORS, Antihistamine, Antimalarial"
+58,Male,Gilgit-Baltistan,28,Kidney Disease,Tuberculosis,"Vomiting, Fever, Headache",Blood Test,Antimalarial
+39,Female,Sindh,28,Diabetes,Scabies,"Headache, Vomiting, Muscle Pain, Abdominal Pain","PCR, Urine Test, CBC","Antihistamine, Antimalarial"
+16,Male,Islamabad Capital Territory,17,None,Influenza,"Skin Rash, Headache, Vomiting, Muscle Pain","PCR, CBC, Stool Test","Ibuprofen, Paracetamol, Antibiotics"
+46,Female,Azad Kashmir,22,Asthma,Cholera,"Skin Rash, Cough, Headache","X-Ray, Stool Test","Vitamin C, ORS, Antihistamine"
+85,Male,Balochistan,14,None,Meningitis,"Shortness of Breath, Vomiting, Fever",Ultrasound,Vitamin C
+90,Female,Gilgit-Baltistan,16,Hypertension,Whooping Cough,"Vomiting, Cough",Blood Test,Vitamin C
+23,Male,Islamabad Capital Territory,11,Hypertension,Hepatitis B,"Nausea, Muscle Pain","X-Ray, Stool Test","Vitamin C, Antibiotics, Antihistamine"
+79,Male,Gilgit-Baltistan,14,Kidney Disease,Meningitis,"Cough, Nausea",Ultrasound,"Ibuprofen, Antibiotics, Vitamin C"
+13,Female,Khyber Pakhtunkhwa,13,Kidney Disease,Malaria,"Muscle Pain, Headache","PCR, CBC",ORS
+46,Female,Islamabad Capital Territory,10,Diabetes,Hepatitis C,"Skin Rash, Shortness of Breath","Ultrasound, CBC, X-Ray","ORS, Antibiotics"
+13,Male,Khyber Pakhtunkhwa,19,Kidney Disease,Dengue Fever,"Nausea, Abdominal Pain, Muscle Pain",X-Ray,"Antimalarial, ORS, Paracetamol"
+9,Female,Khyber Pakhtunkhwa,2,None,Leishmaniasis,"Muscle Pain, Nausea, Fatigue, Cough, Headache","Blood Test, CBC","Paracetamol, ORS"
+73,Male,Gilgit-Baltistan,13,Liver Disease,Polio,"Headache, Cough, Muscle Pain",PCR,"Paracetamol, Antibiotics, Antihistamine"
+68,Male,Balochistan,4,Asthma,Chickenpox,"Cough, Vomiting, Nausea","Urine Test, Stool Test","Vitamin C, ORS, Ibuprofen"
+36,Female,Khyber Pakhtunkhwa,11,Asthma,Tuberculosis,"Headache, Fever, Abdominal Pain, Cough","Ultrasound, CBC, PCR",Antihistamine
+38,Female,Balochistan,3,None,Chickenpox,"Vomiting, Shortness of Breath, Skin Rash, Abdominal Pain, Headache","CBC, X-Ray",ORS
+30,Female,Balochistan,17,Asthma,Meningitis,"Shortness of Breath, Fatigue","X-Ray, PCR",Vitamin C
+31,Female,Sindh,28,Liver Disease,Tuberculosis,"Skin Rash, Fatigue, Shortness of Breath, Nausea",CBC,Antibiotics
+67,Female,Gilgit-Baltistan,30,Kidney Disease,Scabies,"Nausea, Fever, Muscle Pain, Cough",Ultrasound,Antimalarial
+59,Male,Punjab,19,None,Scabies,"Fatigue, Abdominal Pain, Vomiting, Shortness of Breath, Muscle Pain",Blood Test,ORS
+76,Male,Gilgit-Baltistan,6,None,Whooping Cough,"Abdominal Pain, Shortness of Breath, Nausea","CBC, Ultrasound","Vitamin C, Paracetamol"
+90,Female,Gilgit-Baltistan,19,Asthma,Measles,"Nausea, Headache, Abdominal Pain, Vomiting, Skin Rash",Ultrasound,Vitamin C
+68,Male,Sindh,15,None,Polio,"Muscle Pain, Abdominal Pain, Nausea, Cough, Skin Rash",Stool Test,"Ibuprofen, Antibiotics, Paracetamol"
+15,Female,Gilgit-Baltistan,1,Heart Disease,Influenza,"Abdominal Pain, Headache, Fever, Vomiting, Fatigue","Ultrasound, X-Ray, Blood Test",Antihistamine
+82,Male,Gilgit-Baltistan,25,None,Tuberculosis,"Shortness of Breath, Cough, Nausea, Vomiting","Blood Test, Urine Test","Paracetamol, Ibuprofen"
+72,Female,Khyber Pakhtunkhwa,2,Asthma,Influenza,"Shortness of Breath, Muscle Pain, Vomiting, Nausea, Fatigue","X-Ray, PCR","Antibiotics, Antihistamine"
+58,Male,Islamabad Capital Territory,16,Hypertension,Cholera,"Abdominal Pain, Muscle Pain, Fever, Shortness of Breath, Nausea",Stool Test,"Antimalarial, Antibiotics, Paracetamol"
+36,Female,Punjab,10,Liver Disease,Influenza,"Cough, Muscle Pain, Skin Rash, Shortness of Breath","X-Ray, Urine Test, Blood Test","ORS, Antihistamine, Antimalarial"
+56,Male,Sindh,5,Liver Disease,Measles,"Abdominal Pain, Cough, Fatigue, Headache, Vomiting","Urine Test, X-Ray, CBC","Antimalarial, Ibuprofen"
+26,Female,Punjab,16,Kidney Disease,Whooping Cough,"Nausea, Abdominal Pain","X-Ray, PCR, Stool Test",Vitamin C
+25,Female,Balochistan,25,Kidney Disease,Malaria,"Nausea, Skin Rash, Muscle Pain","Urine Test, Blood Test","Paracetamol, Antibiotics, Antimalarial"
+36,Male,Khyber Pakhtunkhwa,7,Diabetes,Rabies,"Cough, Muscle Pain, Headache","PCR, X-Ray",Antimalarial
+36,Male,Balochistan,5,None,Tuberculosis,"Fever, Headache, Skin Rash, Abdominal Pain, Nausea","Urine Test, PCR","Vitamin C, Antimalarial"
+29,Male,Khyber Pakhtunkhwa,13,Hypertension,Pneumonia,"Cough, Fatigue, Shortness of Breath, Vomiting, Headache",CBC,Ibuprofen
+33,Male,Sindh,2,Kidney Disease,Whooping Cough,"Vomiting, Abdominal Pain, Skin Rash","Urine Test, PCR","Antimalarial, Paracetamol, Antihistamine"
+19,Male,Balochistan,17,Liver Disease,Whooping Cough,"Shortness of Breath, Fatigue, Fever, Muscle Pain","Stool Test, Blood Test, CBC",Vitamin C
+9,Male,Khyber Pakhtunkhwa,30,Asthma,Diarrhea,"Shortness of Breath, Vomiting, Cough","Blood Test, PCR, Stool Test","Vitamin C, Antibiotics, Paracetamol"
+5,Male,Islamabad Capital Territory,30,None,Scabies,"Cough, Headache, Shortness of Breath, Vomiting, Skin Rash",Urine Test,Paracetamol
+33,Male,Khyber Pakhtunkhwa,13,Diabetes,Influenza,"Abdominal Pain, Nausea, Cough","Urine Test, Stool Test","Antihistamine, Ibuprofen, Antibiotics"
+17,Male,Azad Kashmir,8,Heart Disease,Dengue Fever,"Abdominal Pain, Muscle Pain, Nausea, Fatigue, Vomiting",Blood Test,"Antihistamine, Ibuprofen, Antimalarial"
+19,Male,Gilgit-Baltistan,6,Diabetes,Whooping Cough,"Vomiting, Abdominal Pain, Fatigue","X-Ray, Stool Test, CBC",ORS
+13,Female,Azad Kashmir,30,Asthma,Asthma,"Abdominal Pain, Skin Rash, Cough",CBC,Antimalarial
+3,Male,Khyber Pakhtunkhwa,15,None,Scabies,"Headache, Abdominal Pain, Vomiting, Muscle Pain, Fever","X-Ray, Blood Test, Stool Test","Antibiotics, Paracetamol, Antimalarial"
+60,Female,Punjab,18,Kidney Disease,Cholera,"Abdominal Pain, Fatigue","Stool Test, PCR",Antihistamine
+9,Male,Balochistan,16,Diabetes,Leishmaniasis,"Nausea, Muscle Pain, Abdominal Pain, Cough",Urine Test,"ORS, Antimalarial"
+81,Male,Islamabad Capital Territory,6,Diabetes,Malaria,"Shortness of Breath, Muscle Pain, Fever",PCR,"Paracetamol, Vitamin C, ORS"
+48,Female,Balochistan,27,Diabetes,Asthma,"Nausea, Headache, Abdominal Pain, Cough",Urine Test,"Antibiotics, Ibuprofen"
+75,Male,Balochistan,15,None,Measles,"Vomiting, Headache, Skin Rash, Shortness of Breath","Blood Test, Ultrasound",Paracetamol
+64,Female,Khyber Pakhtunkhwa,11,Hypertension,Hepatitis B,"Headache, Skin Rash, Muscle Pain, Vomiting, Shortness of Breath",Stool Test,"Antihistamine, Antibiotics"
+82,Female,Gilgit-Baltistan,14,None,Tuberculosis,"Cough, Vomiting, Fever","CBC, X-Ray, PCR",Vitamin C
+56,Male,Gilgit-Baltistan,9,Hypertension,Polio,"Shortness of Breath, Abdominal Pain, Cough, Fever","Ultrasound, CBC, Stool Test","Antihistamine, Ibuprofen"
+44,Male,Punjab,4,Asthma,Diarrhea,"Cough, Headache, Vomiting, Nausea, Muscle Pain","PCR, X-Ray, Stool Test","ORS, Paracetamol"
+38,Female,Balochistan,6,None,Tuberculosis,"Skin Rash, Nausea, Abdominal Pain, Headache, Shortness of Breath","Stool Test, Ultrasound, X-Ray","Ibuprofen, Vitamin C"
+33,Male,Islamabad Capital Territory,1,Kidney Disease,Dengue Fever,"Nausea, Shortness of Breath, Muscle Pain, Vomiting",Urine Test,"Vitamin C, Paracetamol"
+46,Male,Azad Kashmir,3,Heart Disease,Meningitis,"Muscle Pain, Nausea, Skin Rash, Fever, Fatigue",CBC,"Antihistamine, ORS, Vitamin C"
+40,Female,Sindh,13,Asthma,Diarrhea,"Headache, Vomiting, Cough",Urine Test,"Antihistamine, ORS, Antibiotics"
+66,Female,Punjab,15,Heart Disease,Meningitis,"Abdominal Pain, Shortness of Breath, Headache, Fatigue","Blood Test, X-Ray, Urine Test","Antimalarial, ORS, Antihistamine"
+31,Male,Punjab,7,Heart Disease,Scabies,"Fever, Shortness of Breath, Nausea, Skin Rash, Vomiting","X-Ray, CBC","Ibuprofen, Antimalarial, Vitamin C"
+9,Male,Azad Kashmir,13,Asthma,Chickenpox,"Shortness of Breath, Fatigue, Muscle Pain, Abdominal Pain, Vomiting",Urine Test,"Ibuprofen, Vitamin C"
+27,Female,Azad Kashmir,5,Asthma,Leishmaniasis,"Shortness of Breath, Cough, Fatigue","Stool Test, X-Ray, Ultrasound","Ibuprofen, Antimalarial, ORS"
+81,Male,Balochistan,24,Hypertension,Leishmaniasis,"Headache, Vomiting, Shortness of Breath","CBC, Ultrasound, PCR","Antibiotics, Paracetamol, Vitamin C"
+23,Male,Khyber Pakhtunkhwa,8,Diabetes,Leishmaniasis,"Fever, Fatigue, Vomiting","X-Ray, PCR, Ultrasound","Antimalarial, Paracetamol, ORS"
+18,Female,Azad Kashmir,10,Kidney Disease,Meningitis,"Skin Rash, Shortness of Breath, Cough, Nausea, Muscle Pain","Stool Test, Urine Test, Blood Test","Antibiotics, Paracetamol"
+23,Male,Islamabad Capital Territory,24,Diabetes,Cholera,"Fatigue, Skin Rash","X-Ray, Urine Test, CBC",Paracetamol
+32,Female,Khyber Pakhtunkhwa,10,Liver Disease,Chickenpox,"Muscle Pain, Headache, Fatigue, Vomiting","CBC, PCR","Ibuprofen, Vitamin C, Antibiotics"
+69,Female,Gilgit-Baltistan,11,Kidney Disease,Leishmaniasis,"Nausea, Cough, Vomiting, Fatigue, Skin Rash",Blood Test,"Paracetamol, Antimalarial"
+78,Male,Khyber Pakhtunkhwa,3,None,Whooping Cough,"Vomiting, Shortness of Breath, Skin Rash, Muscle Pain",Ultrasound,"Antimalarial, ORS"
+24,Female,Khyber Pakhtunkhwa,25,Asthma,Dengue Fever,"Headache, Nausea, Fatigue, Muscle Pain, Vomiting","PCR, CBC","Antibiotics, Ibuprofen, Paracetamol"
+31,Female,Khyber Pakhtunkhwa,3,Heart Disease,Meningitis,"Cough, Abdominal Pain, Headache","PCR, Ultrasound, Urine Test","Ibuprofen, Antimalarial"
+44,Male,Islamabad Capital Territory,5,Heart Disease,Whooping Cough,"Fever, Shortness of Breath, Vomiting","CBC, X-Ray, Blood Test","Paracetamol, Antimalarial, Antibiotics"
+85,Male,Khyber Pakhtunkhwa,15,Diabetes,Measles,"Skin Rash, Shortness of Breath, Fatigue, Vomiting","Urine Test, Ultrasound, X-Ray",Antihistamine
+13,Female,Gilgit-Baltistan,17,Liver Disease,Typhoid,"Shortness of Breath, Fatigue, Nausea, Muscle Pain, Fever","Urine Test, CBC, PCR","Paracetamol, Antimalarial, Vitamin C"
+27,Female,Khyber Pakhtunkhwa,17,Asthma,Scabies,"Muscle Pain, Nausea, Cough, Fatigue","Blood Test, X-Ray, Ultrasound","Antibiotics, Antihistamine"
+18,Male,Punjab,19,None,Pneumonia,"Headache, Fever, Nausea, Skin Rash","X-Ray, Urine Test","Antibiotics, Paracetamol, Antimalarial"
+76,Male,Azad Kashmir,10,Diabetes,Tuberculosis,"Shortness of Breath, Fatigue","Ultrasound, Blood Test, X-Ray","Vitamin C, Ibuprofen"
+60,Female,Islamabad Capital Territory,28,Asthma,Chickenpox,"Cough, Headache, Nausea, Abdominal Pain, Vomiting","Urine Test, Blood Test","Antihistamine, Paracetamol"
+56,Male,Balochistan,20,Kidney Disease,Hepatitis B,"Fatigue, Headache","X-Ray, Ultrasound, CBC","Antihistamine, Antimalarial"
+8,Female,Khyber Pakhtunkhwa,18,Diabetes,Pneumonia,"Abdominal Pain, Shortness of Breath, Cough, Nausea",CBC,"ORS, Antibiotics, Antihistamine"
+64,Male,Sindh,16,Liver Disease,Whooping Cough,"Abdominal Pain, Fever, Fatigue, Skin Rash","Stool Test, Blood Test, CBC",ORS
+27,Male,Islamabad Capital Territory,3,Diabetes,Pneumonia,"Nausea, Cough, Muscle Pain",Stool Test,"ORS, Ibuprofen"
+5,Female,Punjab,1,Heart Disease,Cholera,"Fever, Shortness of Breath","Urine Test, Ultrasound","Vitamin C, Ibuprofen"
+32,Female,Sindh,6,Hypertension,Hepatitis A,"Abdominal Pain, Fever",PCR,"Paracetamol, Vitamin C, Ibuprofen"
+72,Female,Gilgit-Baltistan,13,Liver Disease,Leishmaniasis,"Abdominal Pain, Headache, Fever","Urine Test, Ultrasound, PCR","ORS, Vitamin C, Ibuprofen"
+39,Female,Sindh,27,Hypertension,Whooping Cough,"Headache, Fever, Abdominal Pain","Urine Test, Blood Test, PCR","Antimalarial, Antihistamine, Paracetamol"
+13,Female,Gilgit-Baltistan,6,Hypertension,Chickenpox,"Headache, Fever, Skin Rash, Abdominal Pain","Ultrasound, Blood Test, X-Ray",Antihistamine
+64,Female,Islamabad Capital Territory,10,Kidney Disease,Dengue Fever,"Nausea, Abdominal Pain, Shortness of Breath, Fatigue, Cough","CBC, Ultrasound",Ibuprofen
+77,Male,Azad Kashmir,23,None,Chickenpox,"Fatigue, Abdominal Pain, Muscle Pain, Nausea",PCR,ORS
+76,Female,Khyber Pakhtunkhwa,27,Kidney Disease,Rabies,"Cough, Nausea","Urine Test, Stool Test, CBC","Antihistamine, Antimalarial, Ibuprofen"
+79,Male,Khyber Pakhtunkhwa,25,Asthma,Measles,"Shortness of Breath, Cough","Urine Test, X-Ray, Ultrasound","Vitamin C, Antihistamine, ORS"
+22,Female,Punjab,16,Hypertension,Measles,"Fatigue, Fever, Cough",Urine Test,Antibiotics
+47,Female,Sindh,30,Hypertension,Diarrhea,"Cough, Fever, Nausea","Blood Test, CBC","Vitamin C, Antibiotics, Paracetamol"
+4,Female,Gilgit-Baltistan,28,None,Typhoid,"Cough, Shortness of Breath",PCR,Vitamin C
+33,Female,Azad Kashmir,21,Kidney Disease,Influenza,"Fever, Muscle Pain, Vomiting, Headache","X-Ray, Stool Test, Urine Test","Ibuprofen, Antimalarial, Vitamin C"
+40,Female,Punjab,2,None,Tuberculosis,"Muscle Pain, Skin Rash, Nausea","Stool Test, CBC","Ibuprofen, Antihistamine, ORS"
+7,Male,Islamabad Capital Territory,14,Diabetes,Measles,"Skin Rash, Vomiting","Ultrasound, X-Ray, Urine Test","Antihistamine, ORS"
+4,Male,Balochistan,27,Diabetes,Polio,"Abdominal Pain, Fatigue, Skin Rash, Nausea, Headache","Stool Test, X-Ray, Urine Test","Paracetamol, Antibiotics, Antihistamine"
+5,Male,Gilgit-Baltistan,25,Diabetes,Meningitis,"Headache, Nausea, Shortness of Breath, Fever, Abdominal Pain",Ultrasound,Paracetamol
+68,Female,Islamabad Capital Territory,21,Diabetes,Pneumonia,"Shortness of Breath, Vomiting, Fever, Abdominal Pain","X-Ray, Ultrasound",Antibiotics
+25,Female,Balochistan,20,Hypertension,Hepatitis B,"Muscle Pain, Vomiting","Stool Test, Urine Test",Paracetamol
+90,Female,Azad Kashmir,13,Diabetes,Cholera,"Abdominal Pain, Fever, Shortness of Breath, Nausea","Blood Test, X-Ray","Antimalarial, Vitamin C"
+4,Female,Khyber Pakhtunkhwa,23,Heart Disease,Pneumonia,"Shortness of Breath, Fever, Skin Rash","CBC, Ultrasound, Stool Test",Ibuprofen
+38,Female,Sindh,25,Diabetes,Cholera,"Cough, Nausea",Stool Test,"Ibuprofen, Antimalarial, Vitamin C"
+2,Male,Balochistan,13,Heart Disease,Asthma,"Vomiting, Shortness of Breath, Cough","Blood Test, X-Ray, Ultrasound","Antimalarial, ORS"
+79,Female,Balochistan,28,Kidney Disease,Leishmaniasis,"Fatigue, Skin Rash, Muscle Pain, Headache, Vomiting","PCR, Stool Test, Blood Test","Ibuprofen, Antimalarial"
+77,Male,Punjab,29,None,Meningitis,"Cough, Muscle Pain, Skin Rash, Nausea, Headache",Urine Test,ORS
+73,Female,Gilgit-Baltistan,1,Asthma,Meningitis,"Headache, Fever, Skin Rash, Nausea, Vomiting","Ultrasound, Urine Test, X-Ray","ORS, Antihistamine"
+30,Female,Islamabad Capital Territory,26,Liver Disease,Hepatitis B,"Muscle Pain, Cough, Abdominal Pain, Shortness of Breath","CBC, PCR",Antihistamine
+10,Female,Khyber Pakhtunkhwa,5,Liver Disease,Meningitis,"Fatigue, Headache, Skin Rash",X-Ray,"Vitamin C, Antihistamine, Antibiotics"
+65,Male,Islamabad Capital Territory,10,Hypertension,Cholera,"Cough, Muscle Pain, Fever, Skin Rash, Headache","CBC, PCR, Stool Test","Vitamin C, Ibuprofen"
+74,Male,Azad Kashmir,27,Hypertension,Polio,"Shortness of Breath, Fever","Urine Test, Stool Test, PCR","Paracetamol, Antimalarial"
+13,Male,Islamabad Capital Territory,16,Kidney Disease,Typhoid,"Skin Rash, Shortness of Breath","Stool Test, X-Ray","Vitamin C, ORS"
+73,Male,Punjab,14,Kidney Disease,Leishmaniasis,"Skin Rash, Fever, Cough","PCR, Urine Test, Blood Test","Ibuprofen, Paracetamol, ORS"
+68,Female,Khyber Pakhtunkhwa,12,Hypertension,Dengue Fever,"Skin Rash, Cough, Fever, Shortness of Breath, Fatigue",Ultrasound,"Antimalarial, Paracetamol, Ibuprofen"
+48,Female,Sindh,1,Asthma,Whooping Cough,"Skin Rash, Headache, Muscle Pain, Fatigue","CBC, Stool Test, Blood Test",Antihistamine
+19,Female,Sindh,3,Liver Disease,Asthma,"Cough, Abdominal Pain",Stool Test,"ORS, Antibiotics, Antimalarial"
+19,Female,Gilgit-Baltistan,2,Kidney Disease,Malaria,"Headache, Shortness of Breath","CBC, Stool Test","Ibuprofen, Antibiotics"
+55,Female,Islamabad Capital Territory,12,Kidney Disease,Scabies,"Shortness of Breath, Cough, Headache, Abdominal Pain, Fatigue","Ultrasound, Stool Test, Blood Test",Vitamin C
+75,Female,Islamabad Capital Territory,11,Kidney Disease,Leishmaniasis,"Fatigue, Headache, Abdominal Pain, Fever, Skin Rash","Ultrasound, Stool Test, PCR","Antibiotics, Ibuprofen"
+37,Male,Balochistan,17,Heart Disease,Cholera,"Abdominal Pain, Nausea, Skin Rash","Blood Test, CBC",ORS
+17,Male,Punjab,5,Asthma,Cholera,"Headache, Skin Rash, Muscle Pain","X-Ray, Urine Test, Ultrasound","Antibiotics, Antimalarial"
+85,Female,Gilgit-Baltistan,1,Liver Disease,Malaria,"Skin Rash, Headache, Vomiting, Nausea","X-Ray, PCR, Stool Test",Antibiotics
+44,Male,Azad Kashmir,16,Heart Disease,Cholera,"Vomiting, Abdominal Pain, Cough, Skin Rash, Muscle Pain",Stool Test,"Vitamin C, Antihistamine, Paracetamol"
+42,Female,Sindh,25,Liver Disease,Cholera,"Fatigue, Cough, Nausea, Vomiting","Urine Test, Blood Test",ORS
+57,Male,Islamabad Capital Territory,6,Asthma,Pneumonia,"Headache, Muscle Pain, Skin Rash, Fatigue",Ultrasound,"Antibiotics, ORS"
+85,Male,Balochistan,18,Diabetes,Rabies,"Vomiting, Muscle Pain, Cough, Fatigue","X-Ray, Urine Test, CBC",Vitamin C
+86,Male,Sindh,16,Heart Disease,Cholera,"Fatigue, Nausea, Vomiting, Shortness of Breath, Fever","PCR, Stool Test, Blood Test","Antihistamine, Ibuprofen, Antibiotics"
+75,Female,Punjab,24,Heart Disease,Asthma,"Fatigue, Abdominal Pain, Headache, Muscle Pain, Cough","Stool Test, CBC, Blood Test",Antimalarial
+82,Female,Azad Kashmir,2,Heart Disease,Meningitis,"Fever, Muscle Pain, Nausea","PCR, CBC, Ultrasound","Vitamin C, Antihistamine"
+17,Male,Sindh,15,None,Whooping Cough,"Nausea, Skin Rash, Muscle Pain, Vomiting","PCR, X-Ray, Blood Test","Antimalarial, Paracetamol, Ibuprofen"
+88,Male,Balochistan,4,Kidney Disease,Diarrhea,"Fever, Vomiting, Skin Rash",Stool Test,"Antihistamine, Ibuprofen"
+38,Male,Gilgit-Baltistan,11,Heart Disease,Measles,"Shortness of Breath, Muscle Pain, Abdominal Pain, Fatigue, Headache",CBC,"Antihistamine, Ibuprofen"
+83,Female,Azad Kashmir,7,Liver Disease,Scabies,"Shortness of Breath, Vomiting, Headache","Stool Test, Urine Test","Vitamin C, Paracetamol, ORS"
+90,Female,Khyber Pakhtunkhwa,6,Liver Disease,Cholera,"Abdominal Pain, Headache, Vomiting","CBC, Blood Test, Ultrasound",Paracetamol
+67,Male,Gilgit-Baltistan,30,Diabetes,Pneumonia,"Muscle Pain, Shortness of Breath","Ultrasound, Urine Test","Antibiotics, Vitamin C"
+52,Male,Khyber Pakhtunkhwa,13,Hypertension,Chickenpox,"Cough, Fever",X-Ray,Antibiotics
+86,Female,Punjab,6,Heart Disease,Dengue Fever,"Muscle Pain, Vomiting, Abdominal Pain",X-Ray,"Paracetamol, Vitamin C, Antibiotics"
+60,Female,Gilgit-Baltistan,16,None,Typhoid,"Vomiting, Shortness of Breath","CBC, Blood Test, Stool Test",Antihistamine
+60,Male,Khyber Pakhtunkhwa,15,Kidney Disease,Whooping Cough,"Headache, Fatigue, Muscle Pain, Nausea","X-Ray, Ultrasound",Ibuprofen
+60,Male,Balochistan,19,Liver Disease,Typhoid,"Fever, Headache, Vomiting","Blood Test, X-Ray, CBC","Paracetamol, Antimalarial, Ibuprofen"
+74,Male,Sindh,1,Liver Disease,Pneumonia,"Nausea, Fever, Cough, Skin Rash, Shortness of Breath",PCR,"ORS, Antibiotics"
+70,Male,Azad Kashmir,21,Liver Disease,Hepatitis A,"Muscle Pain, Fatigue, Fever, Nausea","Blood Test, PCR, Ultrasound","Antimalarial, Vitamin C, Antihistamine"
+88,Male,Azad Kashmir,3,Hypertension,Pneumonia,"Abdominal Pain, Fatigue, Shortness of Breath","PCR, Ultrasound","Vitamin C, Antimalarial"
+55,Female,Sindh,21,Diabetes,Whooping Cough,"Fatigue, Fever, Headache, Muscle Pain","PCR, Blood Test, Stool Test","Antibiotics, Paracetamol, Vitamin C"
+26,Female,Gilgit-Baltistan,12,None,Leishmaniasis,"Muscle Pain, Fever, Abdominal Pain, Vomiting, Shortness of Breath","X-Ray, Ultrasound, Blood Test",ORS
+62,Male,Azad Kashmir,17,Asthma,Tuberculosis,"Skin Rash, Fatigue, Nausea",PCR,"ORS, Antihistamine, Antimalarial"
+56,Male,Azad Kashmir,1,Asthma,Cholera,"Muscle Pain, Cough","CBC, Ultrasound, Urine Test","Ibuprofen, Antihistamine, Vitamin C"
+12,Female,Balochistan,13,None,Whooping Cough,"Vomiting, Skin Rash, Cough, Abdominal Pain, Shortness of Breath","PCR, CBC",Antibiotics
+84,Male,Khyber Pakhtunkhwa,8,None,Tuberculosis,"Shortness of Breath, Abdominal Pain, Skin Rash, Vomiting, Fever","Urine Test, CBC","Paracetamol, Ibuprofen"
+47,Female,Azad Kashmir,29,Hypertension,Dengue Fever,"Abdominal Pain, Vomiting","PCR, CBC","Vitamin C, Paracetamol, Antibiotics"
+64,Male,Sindh,4,Diabetes,Malaria,"Cough, Abdominal Pain, Fatigue, Muscle Pain","Blood Test, PCR, Urine Test","ORS, Antibiotics, Ibuprofen"
+39,Male,Balochistan,24,Kidney Disease,Influenza,"Cough, Abdominal Pain, Nausea","Urine Test, CBC","ORS, Antibiotics"
+2,Male,Gilgit-Baltistan,6,Hypertension,Chickenpox,"Vomiting, Fever, Nausea",Stool Test,Ibuprofen
+39,Female,Gilgit-Baltistan,22,Diabetes,Measles,"Shortness of Breath, Headache, Muscle Pain","Ultrasound, X-Ray","Antibiotics, Antihistamine"
+28,Female,Punjab,20,Asthma,Influenza,"Fatigue, Muscle Pain, Abdominal Pain, Shortness of Breath, Headache","X-Ray, Stool Test","Antibiotics, Ibuprofen, Antimalarial"
+36,Female,Punjab,27,Liver Disease,Tuberculosis,"Skin Rash, Vomiting",Ultrasound,ORS
+74,Male,Balochistan,27,Asthma,Leishmaniasis,"Abdominal Pain, Headache, Fever, Vomiting","Ultrasound, Urine Test",Antimalarial
+42,Female,Gilgit-Baltistan,22,Hypertension,Scabies,"Vomiting, Fever, Skin Rash, Shortness of Breath",Stool Test,"Vitamin C, Ibuprofen"
+77,Female,Gilgit-Baltistan,29,Heart Disease,Scabies,"Shortness of Breath, Fatigue, Fever",Stool Test,"ORS, Ibuprofen"
+33,Female,Islamabad Capital Territory,12,Diabetes,Measles,"Fatigue, Skin Rash, Cough, Fever","Stool Test, CBC, PCR",Antibiotics
+71,Male,Khyber Pakhtunkhwa,27,Heart Disease,Asthma,"Vomiting, Headache, Fatigue","Blood Test, Ultrasound","Antihistamine, Vitamin C"
+73,Male,Punjab,23,None,Dengue Fever,"Abdominal Pain, Nausea, Muscle Pain, Shortness of Breath, Fever",X-Ray,"Vitamin C, Paracetamol"
+90,Male,Gilgit-Baltistan,8,Hypertension,Measles,"Skin Rash, Abdominal Pain",Stool Test,"Vitamin C, Antibiotics, Ibuprofen"
+76,Female,Balochistan,30,Liver Disease,Pneumonia,"Shortness of Breath, Muscle Pain, Skin Rash","Ultrasound, Blood Test",Antimalarial
+89,Male,Khyber Pakhtunkhwa,26,None,Hepatitis C,"Cough, Fever, Muscle Pain, Vomiting",Urine Test,"Antimalarial, Antibiotics"
+36,Female,Sindh,20,Diabetes,Tuberculosis,"Abdominal Pain, Vomiting","CBC, Stool Test",ORS
+24,Female,Gilgit-Baltistan,5,None,Hepatitis B,"Vomiting, Fatigue, Muscle Pain",PCR,Ibuprofen
+37,Male,Azad Kashmir,28,Asthma,Influenza,"Abdominal Pain, Fever, Nausea, Muscle Pain, Skin Rash","X-Ray, PCR, Ultrasound","Antimalarial, Antihistamine, Vitamin C"
+55,Female,Sindh,23,Diabetes,Diarrhea,"Nausea, Cough","Ultrasound, CBC","Antihistamine, Vitamin C, Antimalarial"
+52,Female,Khyber Pakhtunkhwa,29,Asthma,Typhoid,"Skin Rash, Shortness of Breath, Cough, Abdominal Pain, Muscle Pain","CBC, PCR","Vitamin C, Antihistamine"
+28,Female,Islamabad Capital Territory,2,Hypertension,Hepatitis C,"Vomiting, Headache, Fatigue","Ultrasound, Blood Test, PCR","Antimalarial, ORS, Antihistamine"
+33,Female,Khyber Pakhtunkhwa,20,Hypertension,Scabies,"Fever, Vomiting, Nausea",Urine Test,Paracetamol
+5,Male,Islamabad Capital Territory,13,Hypertension,Hepatitis A,"Skin Rash, Fever, Vomiting","Stool Test, PCR",Paracetamol
+56,Female,Khyber Pakhtunkhwa,14,Liver Disease,Measles,"Cough, Nausea",Stool Test,"ORS, Vitamin C, Antihistamine"
+44,Female,Sindh,4,Liver Disease,Dengue Fever,"Vomiting, Nausea, Fever",Blood Test,"Antibiotics, Vitamin C, Antihistamine"
+78,Female,Gilgit-Baltistan,28,Liver Disease,Rabies,"Abdominal Pain, Vomiting, Fever, Headache","CBC, Stool Test","Ibuprofen, Antihistamine, Vitamin C"
+20,Male,Khyber Pakhtunkhwa,23,Diabetes,Diarrhea,"Abdominal Pain, Skin Rash",X-Ray,Paracetamol
+11,Male,Azad Kashmir,23,Kidney Disease,Diarrhea,"Fever, Nausea, Muscle Pain","Stool Test, Ultrasound","Paracetamol, ORS, Antihistamine"
+59,Male,Khyber Pakhtunkhwa,26,Kidney Disease,Typhoid,"Fever, Vomiting, Skin Rash, Abdominal Pain","Stool Test, PCR, Urine Test","Vitamin C, Paracetamol"
+75,Male,Punjab,18,None,Scabies,"Muscle Pain, Nausea, Vomiting","Stool Test, Urine Test, CBC","Paracetamol, Antibiotics"
+42,Male,Sindh,16,Asthma,Rabies,"Nausea, Shortness of Breath, Fever",Stool Test,Ibuprofen
+58,Male,Azad Kashmir,4,Heart Disease,Hepatitis B,"Headache, Nausea, Fatigue, Fever","Stool Test, Urine Test","ORS, Antihistamine, Vitamin C"
+25,Female,Khyber Pakhtunkhwa,11,Heart Disease,Tuberculosis,"Fatigue, Abdominal Pain, Vomiting",PCR,"Antibiotics, Vitamin C"
+34,Male,Sindh,29,Diabetes,Chickenpox,"Muscle Pain, Fatigue, Skin Rash, Abdominal Pain, Headache","Stool Test, Urine Test, Blood Test","Vitamin C, Paracetamol"
+79,Female,Sindh,4,Hypertension,Meningitis,"Cough, Fever, Shortness of Breath","Ultrasound, CBC, PCR",ORS
+74,Male,Khyber Pakhtunkhwa,18,Hypertension,Malaria,"Fatigue, Nausea, Headache","PCR, Ultrasound","ORS, Paracetamol"
+10,Male,Islamabad Capital Territory,28,Liver Disease,Hepatitis C,"Muscle Pain, Fever, Nausea","Blood Test, Stool Test, Ultrasound","ORS, Antibiotics"
+76,Female,Gilgit-Baltistan,25,Heart Disease,Asthma,"Cough, Nausea, Vomiting, Fatigue",Ultrasound,"ORS, Antimalarial"
+37,Male,Gilgit-Baltistan,25,Kidney Disease,Whooping Cough,"Fatigue, Headache, Fever",Blood Test,Paracetamol
+70,Male,Balochistan,22,Hypertension,Meningitis,"Fever, Abdominal Pain, Vomiting","Stool Test, Ultrasound, CBC","Vitamin C, Antihistamine, Paracetamol"
+25,Female,Islamabad Capital Territory,14,Kidney Disease,Diarrhea,"Skin Rash, Headache",PCR,Antibiotics
+46,Female,Sindh,23,Diabetes,Scabies,"Headache, Shortness of Breath, Vomiting, Fatigue, Abdominal Pain","PCR, X-Ray, Ultrasound","ORS, Antihistamine, Antimalarial"
+79,Female,Gilgit-Baltistan,29,None,Cholera,"Headache, Fever, Vomiting, Shortness of Breath, Abdominal Pain","Urine Test, PCR, X-Ray","Paracetamol, Vitamin C"
+20,Female,Gilgit-Baltistan,27,Hypertension,Meningitis,"Vomiting, Fatigue, Fever, Nausea","Ultrasound, Blood Test","Ibuprofen, Antihistamine, Antibiotics"
+68,Male,Khyber Pakhtunkhwa,26,Hypertension,Tuberculosis,"Shortness of Breath, Headache, Muscle Pain","CBC, Ultrasound, X-Ray",Vitamin C
+88,Male,Islamabad Capital Territory,24,Liver Disease,Influenza,"Headache, Muscle Pain, Nausea, Abdominal Pain, Cough",Stool Test,"Antihistamine, ORS, Ibuprofen"
+21,Male,Balochistan,18,Diabetes,Polio,"Muscle Pain, Cough",Blood Test,"Vitamin C, ORS"
+67,Female,Azad Kashmir,19,Diabetes,Chickenpox,"Shortness of Breath, Fever, Skin Rash, Nausea","PCR, CBC",ORS
+29,Female,Khyber Pakhtunkhwa,21,Hypertension,Hepatitis B,"Fever, Cough, Vomiting, Nausea, Abdominal Pain","X-Ray, Ultrasound","ORS, Ibuprofen, Antimalarial"
+28,Male,Punjab,11,Heart Disease,Influenza,"Cough, Abdominal Pain, Vomiting, Shortness of Breath","Stool Test, Ultrasound",Antimalarial
+21,Male,Punjab,11,Diabetes,Measles,"Nausea, Fatigue, Headache","CBC, Ultrasound","Ibuprofen, ORS"
+48,Female,Punjab,2,Heart Disease,Dengue Fever,"Fever, Muscle Pain, Abdominal Pain, Cough","Urine Test, CBC","Antimalarial, Vitamin C, Ibuprofen"
+7,Male,Gilgit-Baltistan,23,Liver Disease,Meningitis,"Skin Rash, Nausea, Fever, Vomiting","PCR, Stool Test","ORS, Antimalarial"
+64,Male,Azad Kashmir,27,Heart Disease,Dengue Fever,"Fever, Abdominal Pain, Skin Rash, Headache, Nausea",Blood Test,Paracetamol
+40,Female,Azad Kashmir,9,Diabetes,Pneumonia,"Shortness of Breath, Fever, Muscle Pain, Vomiting, Cough","Urine Test, CBC","Antihistamine, Antimalarial"
+2,Female,Khyber Pakhtunkhwa,23,Hypertension,Rabies,"Cough, Shortness of Breath, Headache",CBC,"Vitamin C, Paracetamol"
+76,Female,Balochistan,4,Hypertension,Whooping Cough,"Shortness of Breath, Fever",Blood Test,"ORS, Antihistamine"
+75,Female,Punjab,23,Asthma,Cholera,"Fever, Headache",X-Ray,"Antibiotics, Paracetamol, Vitamin C"
+77,Female,Punjab,16,Kidney Disease,Hepatitis B,"Muscle Pain, Skin Rash, Shortness of Breath, Nausea",Blood Test,Vitamin C
+53,Male,Azad Kashmir,5,Liver Disease,Pneumonia,"Shortness of Breath, Cough","Urine Test, Blood Test",Antihistamine
+8,Female,Khyber Pakhtunkhwa,6,Heart Disease,Asthma,"Cough, Muscle Pain, Fever, Skin Rash","PCR, Urine Test","Paracetamol, Antihistamine, Antimalarial"
+56,Female,Punjab,18,Kidney Disease,Hepatitis A,"Fever, Cough, Fatigue","Blood Test, Stool Test","Ibuprofen, Antimalarial"
+59,Male,Balochistan,11,Kidney Disease,Meningitis,"Shortness of Breath, Cough",CBC,"Antihistamine, ORS"
+31,Female,Balochistan,10,Hypertension,Typhoid,"Skin Rash, Vomiting","X-Ray, Stool Test, Ultrasound","Antihistamine, Ibuprofen, Antibiotics"
+25,Male,Khyber Pakhtunkhwa,26,Diabetes,Measles,"Nausea, Fatigue, Fever","X-Ray, PCR","Antimalarial, ORS, Vitamin C"
+57,Male,Gilgit-Baltistan,30,None,Pneumonia,"Cough, Headache, Skin Rash",CBC,"Ibuprofen, Antibiotics, Paracetamol"
+42,Female,Islamabad Capital Territory,3,Heart Disease,Influenza,"Fever, Headache",CBC,"ORS, Vitamin C"
+39,Male,Sindh,1,Liver Disease,Influenza,"Cough, Shortness of Breath, Fatigue, Abdominal Pain",Urine Test,"Antibiotics, Antimalarial"
+33,Male,Islamabad Capital Territory,15,Kidney Disease,Meningitis,"Fever, Fatigue",Blood Test,Ibuprofen
+1,Female,Gilgit-Baltistan,17,Asthma,Dengue Fever,"Fever, Fatigue, Muscle Pain, Shortness of Breath",CBC,"Vitamin C, Antihistamine"
+10,Male,Sindh,19,Liver Disease,Meningitis,"Fatigue, Nausea, Skin Rash","X-Ray, PCR, CBC","Antibiotics, Vitamin C, Antihistamine"
+71,Female,Khyber Pakhtunkhwa,18,Diabetes,Meningitis,"Headache, Fatigue, Cough","Stool Test, PCR, Ultrasound","Antimalarial, Antihistamine, Antibiotics"
+85,Male,Khyber Pakhtunkhwa,20,Diabetes,Hepatitis C,"Fatigue, Cough, Abdominal Pain",Urine Test,ORS
+16,Male,Balochistan,11,Liver Disease,Measles,"Fatigue, Fever","CBC, X-Ray",Antibiotics
+63,Male,Balochistan,8,Hypertension,Tuberculosis,"Abdominal Pain, Cough, Fatigue","Ultrasound, CBC, Blood Test",Antibiotics
+64,Female,Khyber Pakhtunkhwa,27,Heart Disease,Rabies,"Nausea, Skin Rash",X-Ray,"Antimalarial, Ibuprofen"
+35,Male,Gilgit-Baltistan,7,Asthma,Whooping Cough,"Nausea, Headache, Skin Rash",CBC,"Antimalarial, Paracetamol"
+72,Female,Punjab,13,Kidney Disease,Whooping Cough,"Vomiting, Muscle Pain, Abdominal Pain, Headache","CBC, Urine Test, Stool Test",Ibuprofen
+64,Male,Azad Kashmir,16,Heart Disease,Typhoid,"Shortness of Breath, Fever","Ultrasound, PCR, Stool Test","Paracetamol, Vitamin C"
+90,Male,Khyber Pakhtunkhwa,17,Heart Disease,Hepatitis A,"Fatigue, Nausea, Muscle Pain","Urine Test, CBC","Paracetamol, Vitamin C, Antimalarial"
+66,Male,Punjab,12,None,Measles,"Muscle Pain, Headache, Abdominal Pain, Fever","Blood Test, Stool Test, Urine Test",Antimalarial
+29,Female,Islamabad Capital Territory,8,None,Chickenpox,"Fatigue, Vomiting, Muscle Pain","Urine Test, Ultrasound","Paracetamol, Antimalarial"
+64,Female,Khyber Pakhtunkhwa,6,Asthma,Polio,"Nausea, Vomiting, Headache, Muscle Pain","Ultrasound, PCR","Antimalarial, Antihistamine, Antibiotics"
+32,Female,Azad Kashmir,12,Liver Disease,Tuberculosis,"Shortness of Breath, Muscle Pain, Nausea, Cough","Urine Test, Stool Test, Blood Test","Antihistamine, Ibuprofen, Paracetamol"
+56,Female,Sindh,20,Asthma,Typhoid,"Vomiting, Skin Rash, Nausea","X-Ray, Ultrasound, Urine Test","Antimalarial, Antibiotics"
+90,Male,Balochistan,23,Kidney Disease,Diarrhea,"Vomiting, Cough, Shortness of Breath, Muscle Pain","Stool Test, Ultrasound",Antibiotics
+73,Male,Balochistan,1,Liver Disease,Polio,"Cough, Muscle Pain, Vomiting, Headache, Skin Rash","Stool Test, Blood Test","Paracetamol, Antibiotics, Vitamin C"
+26,Male,Balochistan,27,Heart Disease,Influenza,"Abdominal Pain, Headache, Cough, Vomiting, Fatigue","Blood Test, X-Ray, Ultrasound","Antihistamine, Paracetamol, ORS"
+24,Male,Sindh,7,Kidney Disease,Typhoid,"Vomiting, Skin Rash, Cough, Nausea",Stool Test,"Vitamin C, Antimalarial"
+10,Female,Gilgit-Baltistan,3,None,Measles,"Nausea, Muscle Pain, Fatigue","X-Ray, Urine Test, Ultrasound","Antibiotics, Antimalarial"
+69,Female,Balochistan,2,Asthma,Rabies,"Muscle Pain, Cough","Ultrasound, CBC, Blood Test",Vitamin C
+11,Male,Azad Kashmir,5,Diabetes,Hepatitis A,"Nausea, Abdominal Pain, Skin Rash, Cough","Stool Test, Ultrasound, Blood Test",Paracetamol
+7,Female,Gilgit-Baltistan,6,Asthma,Hepatitis B,"Shortness of Breath, Headache, Muscle Pain","PCR, CBC","ORS, Paracetamol, Antihistamine"
+73,Male,Khyber Pakhtunkhwa,2,Liver Disease,Chickenpox,"Shortness of Breath, Skin Rash, Cough, Muscle Pain","Ultrasound, PCR","Antimalarial, Antibiotics"
+48,Female,Islamabad Capital Territory,14,Liver Disease,Rabies,"Cough, Abdominal Pain","Blood Test, X-Ray, Ultrasound","Antihistamine, ORS"
+40,Female,Punjab,12,Kidney Disease,Leishmaniasis,"Fatigue, Muscle Pain, Shortness of Breath","Ultrasound, X-Ray",Ibuprofen
+37,Male,Sindh,19,None,Hepatitis B,"Vomiting, Skin Rash, Cough, Fever, Abdominal Pain",Stool Test,Antihistamine
+88,Female,Sindh,24,Kidney Disease,Meningitis,"Abdominal Pain, Cough, Muscle Pain, Headache","X-Ray, PCR",Paracetamol
+72,Male,Khyber Pakhtunkhwa,7,Liver Disease,Influenza,"Cough, Vomiting","CBC, PCR, Stool Test","Vitamin C, Antihistamine, ORS"
+33,Male,Khyber Pakhtunkhwa,20,Asthma,Malaria,"Headache, Skin Rash","PCR, CBC, Ultrasound","Vitamin C, Antimalarial, ORS"
+85,Female,Khyber Pakhtunkhwa,30,Hypertension,Pneumonia,"Shortness of Breath, Skin Rash, Nausea, Cough, Headache",Ultrasound,Ibuprofen
+4,Male,Sindh,27,Hypertension,Meningitis,"Abdominal Pain, Headache, Vomiting",Ultrasound,Ibuprofen
+42,Male,Gilgit-Baltistan,19,Asthma,Cholera,"Nausea, Shortness of Breath","Urine Test, Ultrasound, CBC","Vitamin C, Paracetamol, Antihistamine"
+52,Male,Punjab,3,Liver Disease,Whooping Cough,"Vomiting, Headache, Fever",Stool Test,"Antimalarial, ORS"
+72,Female,Azad Kashmir,12,Asthma,Influenza,"Headache, Vomiting","Blood Test, Stool Test","Antimalarial, Antihistamine, Antibiotics"
+52,Male,Sindh,11,Heart Disease,Chickenpox,"Shortness of Breath, Vomiting, Fever, Nausea",Blood Test,"Vitamin C, Paracetamol, Ibuprofen"
+51,Male,Sindh,8,Heart Disease,Tuberculosis,"Fever, Shortness of Breath, Vomiting, Fatigue",Stool Test,"Antimalarial, Antihistamine, Antibiotics"
+25,Male,Islamabad Capital Territory,26,Kidney Disease,Malaria,"Headache, Fever, Fatigue, Muscle Pain","Blood Test, Ultrasound","Vitamin C, ORS, Paracetamol"
+56,Male,Azad Kashmir,6,Kidney Disease,Dengue Fever,"Shortness of Breath, Vomiting, Skin Rash, Muscle Pain",Ultrasound,"Vitamin C, Antimalarial, Ibuprofen"
+41,Female,Punjab,7,Hypertension,Diarrhea,"Muscle Pain, Vomiting, Shortness of Breath, Skin Rash","X-Ray, PCR, Ultrasound",Ibuprofen
+13,Male,Islamabad Capital Territory,9,Heart Disease,Asthma,"Skin Rash, Headache","CBC, Blood Test, Urine Test","Antihistamine, Paracetamol, Ibuprofen"
+75,Female,Gilgit-Baltistan,28,Kidney Disease,Meningitis,"Shortness of Breath, Fatigue, Skin Rash, Vomiting, Muscle Pain","Stool Test, PCR, Ultrasound",ORS
+22,Male,Khyber Pakhtunkhwa,6,None,Hepatitis B,"Abdominal Pain, Shortness of Breath, Muscle Pain, Skin Rash, Cough","Blood Test, Urine Test, Ultrasound","Antibiotics, Antihistamine, Antimalarial"
+14,Female,Punjab,10,Liver Disease,Cholera,"Nausea, Cough, Vomiting","CBC, PCR","Antihistamine, Ibuprofen"
+4,Female,Gilgit-Baltistan,17,Liver Disease,Hepatitis B,"Headache, Vomiting, Shortness of Breath, Skin Rash","Urine Test, CBC","Vitamin C, Ibuprofen, Antibiotics"
+25,Male,Islamabad Capital Territory,24,Asthma,Asthma,"Skin Rash, Nausea, Headache","Ultrasound, Urine Test, X-Ray","Vitamin C, Antibiotics"
+21,Female,Islamabad Capital Territory,26,None,Diarrhea,"Nausea, Muscle Pain, Fatigue, Cough",Stool Test,"Paracetamol, Vitamin C, Antihistamine"
+63,Female,Azad Kashmir,7,Diabetes,Whooping Cough,"Headache, Vomiting",Blood Test,Antihistamine
+56,Female,Khyber Pakhtunkhwa,29,Asthma,Hepatitis A,"Muscle Pain, Skin Rash, Nausea, Headache, Cough","Blood Test, X-Ray, PCR",Antihistamine
+52,Female,Azad Kashmir,23,Asthma,Chickenpox,"Headache, Muscle Pain, Skin Rash","X-Ray, Ultrasound","Antimalarial, Paracetamol, Ibuprofen"
+55,Female,Khyber Pakhtunkhwa,4,Asthma,Hepatitis C,"Fever, Cough, Abdominal Pain, Skin Rash","CBC, Blood Test",Antihistamine
+87,Male,Balochistan,6,None,Dengue Fever,"Muscle Pain, Vomiting, Fatigue, Headache","Stool Test, Urine Test, Ultrasound","Paracetamol, ORS"
+37,Female,Azad Kashmir,1,Kidney Disease,Malaria,"Muscle Pain, Skin Rash, Fever, Nausea",PCR,Antimalarial
+37,Female,Sindh,11,Liver Disease,Tuberculosis,"Skin Rash, Fatigue, Abdominal Pain, Fever","Stool Test, X-Ray","Paracetamol, Antibiotics"
+62,Female,Balochistan,22,Hypertension,Rabies,"Fatigue, Skin Rash, Shortness of Breath",Urine Test,"Paracetamol, Ibuprofen, Vitamin C"
+77,Female,Punjab,24,Heart Disease,Whooping Cough,"Fatigue, Nausea","Stool Test, Ultrasound","Vitamin C, ORS"
+8,Female,Islamabad Capital Territory,12,Liver Disease,Hepatitis A,"Skin Rash, Headache","Ultrasound, X-Ray","Antihistamine, Paracetamol, Antimalarial"
+25,Male,Punjab,21,Hypertension,Chickenpox,"Abdominal Pain, Skin Rash, Fatigue","Ultrasound, PCR",Vitamin C
+32,Male,Gilgit-Baltistan,25,None,Pneumonia,"Abdominal Pain, Shortness of Breath","Urine Test, CBC, Blood Test","Antimalarial, Antihistamine"
+69,Male,Khyber Pakhtunkhwa,8,Kidney Disease,Hepatitis A,"Nausea, Vomiting, Skin Rash, Muscle Pain, Headache",Blood Test,"Antihistamine, Ibuprofen"
+68,Male,Gilgit-Baltistan,15,Asthma,Diarrhea,"Fatigue, Vomiting",Urine Test,"Paracetamol, Antibiotics, ORS"
+24,Female,Gilgit-Baltistan,27,Asthma,Chickenpox,"Vomiting, Cough, Fatigue","Urine Test, Ultrasound, X-Ray","Ibuprofen, Antihistamine"
+63,Female,Gilgit-Baltistan,27,None,Influenza,"Vomiting, Muscle Pain, Fever, Nausea","Blood Test, Stool Test, PCR",Vitamin C
+17,Male,Sindh,11,Kidney Disease,Hepatitis A,"Fatigue, Abdominal Pain","Urine Test, Blood Test","Antimalarial, Paracetamol, Antihistamine"
+9,Female,Khyber Pakhtunkhwa,24,Heart Disease,Hepatitis A,"Headache, Cough","CBC, X-Ray, Stool Test","Antibiotics, Ibuprofen"
+8,Female,Khyber Pakhtunkhwa,1,Diabetes,Pneumonia,"Abdominal Pain, Muscle Pain","Urine Test, X-Ray","Antibiotics, Vitamin C"
+22,Female,Balochistan,23,Kidney Disease,Malaria,"Fatigue, Fever, Vomiting, Abdominal Pain","Blood Test, Urine Test",Paracetamol
+89,Female,Khyber Pakhtunkhwa,18,Hypertension,Leishmaniasis,"Abdominal Pain, Muscle Pain, Fatigue","X-Ray, Stool Test, Ultrasound","Antihistamine, Paracetamol"
+4,Male,Gilgit-Baltistan,6,Liver Disease,Hepatitis B,"Abdominal Pain, Fever",Stool Test,Antihistamine
+86,Male,Gilgit-Baltistan,24,Hypertension,Dengue Fever,"Fever, Headache","Blood Test, X-Ray","Antimalarial, Ibuprofen, Paracetamol"
+73,Female,Balochistan,16,None,Dengue Fever,"Cough, Abdominal Pain, Muscle Pain","Ultrasound, CBC, Blood Test",Paracetamol
+31,Male,Khyber Pakhtunkhwa,5,Diabetes,Asthma,"Skin Rash, Fatigue, Cough, Fever, Muscle Pain","Ultrasound, X-Ray, CBC","Ibuprofen, Antihistamine"
+27,Male,Azad Kashmir,27,Liver Disease,Measles,"Shortness of Breath, Headache","CBC, Urine Test","Antibiotics, Antimalarial"
+21,Male,Gilgit-Baltistan,6,Kidney Disease,Typhoid,"Vomiting, Fatigue, Fever","Urine Test, Blood Test, X-Ray","ORS, Antimalarial, Antihistamine"
+60,Male,Balochistan,7,Hypertension,Hepatitis C,"Cough, Abdominal Pain, Nausea, Skin Rash, Headache","PCR, Stool Test",Antimalarial
+79,Female,Islamabad Capital Territory,25,Heart Disease,Meningitis,"Cough, Fatigue, Nausea, Muscle Pain","X-Ray, Blood Test","Antihistamine, Antimalarial, Antibiotics"
+79,Male,Gilgit-Baltistan,21,None,Asthma,"Fever, Skin Rash","PCR, Stool Test, CBC","ORS, Vitamin C"
+1,Male,Gilgit-Baltistan,28,Asthma,Hepatitis B,"Abdominal Pain, Muscle Pain, Vomiting, Fatigue","CBC, Blood Test",Vitamin C
+67,Female,Sindh,13,Asthma,Pneumonia,"Muscle Pain, Abdominal Pain","Ultrasound, X-Ray, Blood Test","Antimalarial, Antibiotics"
+56,Female,Khyber Pakhtunkhwa,18,Heart Disease,Rabies,"Vomiting, Headache, Muscle Pain","Blood Test, Urine Test, X-Ray",Antimalarial
+79,Female,Azad Kashmir,4,Liver Disease,Whooping Cough,"Muscle Pain, Headache, Abdominal Pain, Nausea, Fatigue",CBC,"Antimalarial, Vitamin C"
+4,Female,Sindh,22,Liver Disease,Hepatitis B,"Headache, Fatigue, Shortness of Breath","CBC, X-Ray, Urine Test","Antihistamine, Vitamin C"
+76,Female,Khyber Pakhtunkhwa,17,Heart Disease,Chickenpox,"Shortness of Breath, Abdominal Pain","PCR, CBC","Antihistamine, Ibuprofen"
+20,Female,Khyber Pakhtunkhwa,2,Diabetes,Measles,"Fatigue, Headache, Muscle Pain, Skin Rash",Blood Test,"Vitamin C, Paracetamol"
+89,Male,Khyber Pakhtunkhwa,29,Hypertension,Whooping Cough,"Vomiting, Cough, Skin Rash, Fever",Ultrasound,Antihistamine
+15,Male,Azad Kashmir,6,Heart Disease,Chickenpox,"Muscle Pain, Fatigue, Shortness of Breath, Skin Rash","PCR, Blood Test, Stool Test","Antibiotics, Paracetamol, Antimalarial"
+66,Female,Khyber Pakhtunkhwa,25,Liver Disease,Polio,"Fever, Vomiting, Cough, Fatigue","Ultrasound, Blood Test","Paracetamol, ORS"
+33,Male,Islamabad Capital Territory,5,Kidney Disease,Whooping Cough,"Abdominal Pain, Shortness of Breath, Nausea, Skin Rash","Ultrasound, Urine Test","Vitamin C, Ibuprofen, Antihistamine"
+56,Male,Gilgit-Baltistan,25,Kidney Disease,Tuberculosis,"Vomiting, Headache, Fatigue","CBC, Blood Test, Stool Test","Antibiotics, Ibuprofen"
+90,Female,Sindh,11,Asthma,Chickenpox,"Cough, Shortness of Breath",Blood Test,Antihistamine
+87,Male,Khyber Pakhtunkhwa,12,Asthma,Tuberculosis,"Nausea, Vomiting","X-Ray, Urine Test","Antimalarial, Antihistamine"
+40,Female,Punjab,4,Heart Disease,Hepatitis A,"Abdominal Pain, Cough, Muscle Pain, Shortness of Breath, Fatigue","Urine Test, Ultrasound","Ibuprofen, Antihistamine"
+67,Female,Khyber Pakhtunkhwa,15,Diabetes,Measles,"Shortness of Breath, Fever",Stool Test,"Ibuprofen, Antihistamine"
+55,Female,Punjab,1,Kidney Disease,Asthma,"Skin Rash, Headache","PCR, Blood Test",ORS
+78,Female,Punjab,13,None,Asthma,"Fatigue, Muscle Pain, Fever, Shortness of Breath","Urine Test, Stool Test, Blood Test","Antimalarial, Antibiotics"
+31,Female,Islamabad Capital Territory,13,Liver Disease,Cholera,"Vomiting, Abdominal Pain, Fever, Shortness of Breath","Ultrasound, PCR","Antibiotics, Antimalarial, Vitamin C"
+28,Female,Punjab,16,Hypertension,Hepatitis A,"Muscle Pain, Skin Rash, Cough, Fever, Abdominal Pain","Stool Test, CBC, X-Ray",Antihistamine
+40,Female,Khyber Pakhtunkhwa,17,Hypertension,Dengue Fever,"Abdominal Pain, Nausea, Cough","Stool Test, Blood Test","Antimalarial, Ibuprofen"
+41,Female,Islamabad Capital Territory,3,Kidney Disease,Cholera,"Fever, Abdominal Pain, Muscle Pain, Skin Rash",Blood Test,"Paracetamol, Antihistamine"
+37,Male,Balochistan,11,Diabetes,Meningitis,"Nausea, Skin Rash, Shortness of Breath","CBC, Blood Test","Antimalarial, Antihistamine, Vitamin C"
+28,Female,Sindh,22,Diabetes,Cholera,"Headache, Fatigue, Fever, Nausea, Skin Rash","Blood Test, CBC, Urine Test",Paracetamol
+23,Male,Islamabad Capital Territory,7,Liver Disease,Whooping Cough,"Cough, Fatigue, Shortness of Breath, Skin Rash","X-Ray, PCR","Vitamin C, Antihistamine, Antibiotics"
+76,Female,Azad Kashmir,8,Heart Disease,Typhoid,"Fever, Abdominal Pain, Vomiting, Headache","Stool Test, Urine Test",Antimalarial
+60,Male,Islamabad Capital Territory,24,Kidney Disease,Malaria,"Vomiting, Skin Rash, Headache","Blood Test, X-Ray, Ultrasound","Antibiotics, Antimalarial"
+27,Male,Punjab,18,Diabetes,Influenza,"Fatigue, Vomiting, Fever, Shortness of Breath, Muscle Pain",Blood Test,Antihistamine
+87,Male,Sindh,27,Liver Disease,Tuberculosis,"Skin Rash, Muscle Pain, Headache, Nausea, Fever",Stool Test,"Antihistamine, ORS, Ibuprofen"
+43,Female,Khyber Pakhtunkhwa,27,Liver Disease,Measles,"Vomiting, Skin Rash, Nausea","Ultrasound, PCR","Antimalarial, Antihistamine, ORS"
+39,Male,Khyber Pakhtunkhwa,12,Kidney Disease,Meningitis,"Fatigue, Vomiting, Abdominal Pain, Headache",CBC,"Paracetamol, Antibiotics, Antimalarial"
+57,Male,Punjab,2,Asthma,Rabies,"Cough, Muscle Pain, Nausea, Skin Rash",PCR,"Antibiotics, Antihistamine"
+18,Male,Khyber Pakhtunkhwa,1,Kidney Disease,Dengue Fever,"Headache, Fatigue, Vomiting","Blood Test, CBC, Ultrasound","ORS, Vitamin C"
+43,Male,Sindh,27,Kidney Disease,Measles,"Fatigue, Skin Rash, Headache",Stool Test,"Paracetamol, ORS"
+65,Male,Balochistan,17,None,Diarrhea,"Fatigue, Headache, Nausea, Skin Rash, Shortness of Breath",Urine Test,Vitamin C
+20,Male,Punjab,30,None,Asthma,"Headache, Skin Rash, Fever, Nausea","Urine Test, CBC","Antimalarial, ORS"
+33,Female,Azad Kashmir,23,Kidney Disease,Hepatitis B,"Fatigue, Nausea, Shortness of Breath","Urine Test, PCR","Paracetamol, ORS"
+2,Male,Gilgit-Baltistan,13,Liver Disease,Chickenpox,"Headache, Fever, Vomiting, Abdominal Pain, Skin Rash","Blood Test, Urine Test, X-Ray","Vitamin C, Antibiotics, ORS"
+85,Female,Azad Kashmir,28,Diabetes,Whooping Cough,"Shortness of Breath, Nausea",Blood Test,Antibiotics
+15,Male,Khyber Pakhtunkhwa,15,Asthma,Diarrhea,"Fatigue, Vomiting",Stool Test,Antibiotics
+85,Female,Azad Kashmir,22,Asthma,Chickenpox,"Skin Rash, Vomiting",Urine Test,"Antimalarial, Paracetamol, Ibuprofen"
+42,Female,Islamabad Capital Territory,8,Hypertension,Cholera,"Nausea, Muscle Pain, Fever","CBC, PCR, Urine Test",Paracetamol
+87,Male,Balochistan,7,Diabetes,Polio,"Shortness of Breath, Fever, Fatigue","PCR, Ultrasound, Blood Test","Paracetamol, Antimalarial"
+5,Male,Gilgit-Baltistan,17,Diabetes,Malaria,"Skin Rash, Nausea, Vomiting",CBC,Ibuprofen
+80,Female,Islamabad Capital Territory,23,Hypertension,Typhoid,"Skin Rash, Nausea, Muscle Pain, Vomiting","Stool Test, Ultrasound","Antimalarial, Paracetamol"
+16,Male,Punjab,5,Hypertension,Pneumonia,"Nausea, Skin Rash, Fever, Headache, Vomiting",Stool Test,"ORS, Paracetamol, Antimalarial"
+49,Female,Azad Kashmir,27,Asthma,Malaria,"Abdominal Pain, Fever","PCR, CBC",ORS
+28,Female,Sindh,15,Liver Disease,Diarrhea,"Abdominal Pain, Vomiting, Shortness of Breath, Muscle Pain, Skin Rash","Stool Test, Ultrasound, Urine Test",ORS
+20,Male,Sindh,1,Hypertension,Dengue Fever,"Muscle Pain, Abdominal Pain, Headache",Urine Test,Ibuprofen
+75,Female,Balochistan,20,None,Cholera,"Fever, Cough, Skin Rash, Fatigue, Muscle Pain","Ultrasound, CBC",Vitamin C
+75,Male,Punjab,13,Liver Disease,Tuberculosis,"Cough, Skin Rash, Abdominal Pain, Vomiting, Headache","X-Ray, PCR, Stool Test","Vitamin C, Antihistamine"
+11,Male,Balochistan,22,Hypertension,Rabies,"Nausea, Cough",Urine Test,"Antibiotics, Vitamin C"
+67,Female,Islamabad Capital Territory,28,Kidney Disease,Hepatitis A,"Skin Rash, Fever, Cough",Blood Test,"Antihistamine, Antimalarial"
+12,Male,Azad Kashmir,7,Hypertension,Typhoid,"Headache, Abdominal Pain, Muscle Pain","Stool Test, Urine Test, Ultrasound","Ibuprofen, Antimalarial"
+22,Female,Khyber Pakhtunkhwa,7,Hypertension,Leishmaniasis,"Abdominal Pain, Fatigue","Stool Test, Blood Test","Antimalarial, Antibiotics"
+41,Male,Punjab,6,Diabetes,Tuberculosis,"Fever, Shortness of Breath","Stool Test, Urine Test","Antimalarial, Paracetamol"
+53,Male,Islamabad Capital Territory,29,Heart Disease,Rabies,"Shortness of Breath, Cough, Headache, Fever","PCR, Stool Test",ORS
+42,Female,Islamabad Capital Territory,3,Heart Disease,Hepatitis B,"Cough, Shortness of Breath, Fatigue","CBC, Urine Test, PCR",Antibiotics
+81,Female,Khyber Pakhtunkhwa,14,Hypertension,Asthma,"Headache, Muscle Pain",PCR,"Antibiotics, Ibuprofen, Vitamin C"
+18,Male,Balochistan,19,Kidney Disease,Scabies,"Headache, Vomiting, Shortness of Breath, Abdominal Pain",Stool Test,Paracetamol
+76,Female,Punjab,24,Diabetes,Meningitis,"Skin Rash, Fatigue, Abdominal Pain, Headache",PCR,"ORS, Antibiotics, Antimalarial"
+15,Male,Khyber Pakhtunkhwa,11,Liver Disease,Pneumonia,"Skin Rash, Fever","X-Ray, Urine Test, CBC",Antimalarial
+18,Male,Islamabad Capital Territory,15,Hypertension,Hepatitis C,"Fever, Abdominal Pain",X-Ray,"Vitamin C, Antihistamine"
+32,Male,Balochistan,3,Asthma,Diarrhea,"Fatigue, Fever","X-Ray, Stool Test",Antihistamine
+18,Female,Gilgit-Baltistan,2,Diabetes,Malaria,"Headache, Fever, Shortness of Breath",CBC,"Antibiotics, ORS"
+44,Female,Khyber Pakhtunkhwa,29,Asthma,Tuberculosis,"Skin Rash, Headache, Fever, Vomiting",Ultrasound,"Antihistamine, Antimalarial, ORS"
+71,Female,Sindh,10,Liver Disease,Pneumonia,"Shortness of Breath, Abdominal Pain, Fatigue, Cough",Urine Test,"Antibiotics, Antimalarial, Paracetamol"
+61,Female,Khyber Pakhtunkhwa,13,Heart Disease,Chickenpox,"Cough, Skin Rash, Fever","CBC, Stool Test, X-Ray","Ibuprofen, ORS, Antihistamine"
+56,Female,Gilgit-Baltistan,18,None,Whooping Cough,"Cough, Fever, Skin Rash, Vomiting, Headache","X-Ray, Ultrasound","Antimalarial, ORS, Antihistamine"
+53,Male,Balochistan,18,Liver Disease,Hepatitis B,"Cough, Fatigue, Skin Rash, Fever","Ultrasound, Blood Test","Antimalarial, Paracetamol, ORS"
+83,Male,Gilgit-Baltistan,16,Diabetes,Hepatitis C,"Abdominal Pain, Headache, Fatigue",X-Ray,Ibuprofen
+46,Female,Gilgit-Baltistan,18,Asthma,Tuberculosis,"Shortness of Breath, Abdominal Pain",Urine Test,"Antihistamine, Ibuprofen"
+59,Female,Punjab,15,None,Typhoid,"Abdominal Pain, Muscle Pain","CBC, PCR, Blood Test","Paracetamol, Ibuprofen, Antihistamine"
+11,Female,Gilgit-Baltistan,29,Asthma,Typhoid,"Headache, Skin Rash, Fatigue, Nausea, Shortness of Breath","Urine Test, X-Ray, CBC",Vitamin C
+49,Female,Gilgit-Baltistan,30,Diabetes,Diarrhea,"Nausea, Muscle Pain, Fatigue","PCR, Stool Test","Antihistamine, Paracetamol"
+55,Male,Balochistan,8,Asthma,Asthma,"Headache, Fever, Fatigue, Nausea, Cough",X-Ray,"Antibiotics, Ibuprofen, Antihistamine"
+38,Female,Balochistan,30,Liver Disease,Hepatitis C,"Muscle Pain, Shortness of Breath","CBC, Blood Test, Stool Test","Antihistamine, Vitamin C"
+74,Female,Gilgit-Baltistan,30,Liver Disease,Dengue Fever,"Headache, Vomiting, Skin Rash, Muscle Pain","PCR, X-Ray, Stool Test","Antihistamine, Paracetamol, Vitamin C"
+66,Female,Khyber Pakhtunkhwa,12,Heart Disease,Chickenpox,"Muscle Pain, Vomiting, Shortness of Breath, Fatigue",PCR,Antibiotics
+34,Male,Balochistan,15,None,Asthma,"Nausea, Cough, Skin Rash, Vomiting","Stool Test, Urine Test","Vitamin C, Antimalarial, Ibuprofen"
+31,Female,Gilgit-Baltistan,23,Asthma,Influenza,"Fever, Skin Rash, Cough, Headache",X-Ray,"Antibiotics, Paracetamol, Antimalarial"
+68,Female,Balochistan,24,Liver Disease,Chickenpox,"Cough, Shortness of Breath",Ultrasound,"Vitamin C, ORS"
+20,Male,Gilgit-Baltistan,13,Asthma,Cholera,"Vomiting, Muscle Pain, Nausea, Shortness of Breath, Cough","X-Ray, Blood Test","Paracetamol, Ibuprofen"
+4,Female,Punjab,23,Asthma,Asthma,"Fever, Vomiting, Muscle Pain","PCR, X-Ray, Blood Test","Paracetamol, ORS"
+36,Female,Punjab,17,Hypertension,Typhoid,"Abdominal Pain, Fever, Headache, Nausea","CBC, Urine Test","Ibuprofen, Antimalarial, Vitamin C"
+5,Female,Balochistan,2,Liver Disease,Hepatitis C,"Abdominal Pain, Fatigue, Nausea, Shortness of Breath, Cough","X-Ray, Urine Test, Ultrasound","Antihistamine, Vitamin C"
+78,Female,Khyber Pakhtunkhwa,21,Hypertension,Tuberculosis,"Shortness of Breath, Vomiting","CBC, Stool Test",Vitamin C
+89,Female,Islamabad Capital Territory,19,None,Typhoid,"Nausea, Shortness of Breath, Muscle Pain, Cough, Fever",Stool Test,"Antibiotics, Ibuprofen, Paracetamol"
+74,Female,Azad Kashmir,24,Liver Disease,Measles,"Muscle Pain, Headache, Shortness of Breath",Blood Test,"Antibiotics, Paracetamol"
+75,Female,Balochistan,29,Asthma,Whooping Cough,"Nausea, Headache, Shortness of Breath, Muscle Pain","X-Ray, Ultrasound, PCR","Paracetamol, Antibiotics"
+63,Female,Khyber Pakhtunkhwa,26,Heart Disease,Hepatitis A,"Nausea, Muscle Pain, Vomiting, Abdominal Pain","Blood Test, X-Ray, PCR","Paracetamol, Antibiotics, Antimalarial"
+28,Female,Khyber Pakhtunkhwa,24,Liver Disease,Hepatitis A,"Shortness of Breath, Abdominal Pain","PCR, Blood Test","ORS, Paracetamol, Antihistamine"
+88,Female,Punjab,6,Heart Disease,Measles,"Headache, Nausea, Fever, Vomiting","Blood Test, Ultrasound","Ibuprofen, ORS"
+39,Male,Sindh,21,Hypertension,Typhoid,"Fever, Skin Rash, Cough, Vomiting","Urine Test, CBC, X-Ray","Ibuprofen, Vitamin C"
+6,Female,Punjab,19,Asthma,Meningitis,"Shortness of Breath, Fever, Vomiting, Skin Rash","X-Ray, CBC, Blood Test","Vitamin C, Antimalarial, Ibuprofen"
+13,Female,Punjab,19,Liver Disease,Diarrhea,"Fatigue, Headache, Shortness of Breath","Urine Test, Blood Test","ORS, Antimalarial, Antibiotics"
+88,Male,Balochistan,30,None,Diarrhea,"Cough, Skin Rash, Abdominal Pain","Stool Test, X-Ray, Blood Test","ORS, Antibiotics, Antimalarial"
+67,Female,Punjab,3,Heart Disease,Polio,"Abdominal Pain, Fever, Cough, Muscle Pain, Headache","Blood Test, X-Ray","ORS, Antihistamine"
+6,Female,Islamabad Capital Territory,17,Hypertension,Whooping Cough,"Muscle Pain, Cough, Shortness of Breath, Abdominal Pain","CBC, Blood Test","Antimalarial, ORS"
+64,Male,Islamabad Capital Territory,8,Liver Disease,Scabies,"Muscle Pain, Vomiting, Skin Rash, Headache","CBC, Blood Test","ORS, Antimalarial, Antibiotics"
+30,Female,Islamabad Capital Territory,23,Hypertension,Influenza,"Skin Rash, Fatigue, Abdominal Pain, Shortness of Breath, Muscle Pain",Blood Test,"Antihistamine, Vitamin C"
+30,Female,Sindh,7,Hypertension,Chickenpox,"Fatigue, Headache, Vomiting, Shortness of Breath, Cough","Urine Test, Ultrasound, CBC","Antimalarial, Antihistamine"
+28,Female,Gilgit-Baltistan,29,Heart Disease,Asthma,"Nausea, Shortness of Breath, Headache, Skin Rash, Abdominal Pain",Ultrasound,"Vitamin C, Antihistamine, ORS"
+85,Female,Khyber Pakhtunkhwa,15,Hypertension,Whooping Cough,"Vomiting, Muscle Pain, Shortness of Breath","CBC, Ultrasound","Ibuprofen, Paracetamol, Antibiotics"
+39,Male,Azad Kashmir,12,Liver Disease,Leishmaniasis,"Fever, Muscle Pain, Shortness of Breath, Headache, Vomiting",X-Ray,Paracetamol
+18,Male,Balochistan,6,Hypertension,Dengue Fever,"Vomiting, Cough, Fatigue","PCR, X-Ray",Antimalarial
+46,Female,Khyber Pakhtunkhwa,3,None,Dengue Fever,"Muscle Pain, Skin Rash, Nausea, Cough","Blood Test, X-Ray, CBC","Paracetamol, ORS, Antimalarial"
+22,Female,Punjab,29,Hypertension,Influenza,"Abdominal Pain, Headache","PCR, Urine Test, X-Ray","Vitamin C, ORS"
+67,Male,Punjab,3,Kidney Disease,Meningitis,"Fever, Vomiting",Blood Test,"Paracetamol, Antimalarial"
+88,Male,Balochistan,26,Heart Disease,Asthma,"Abdominal Pain, Shortness of Breath, Fever, Headache, Vomiting",X-Ray,"Paracetamol, Antihistamine"
+64,Female,Sindh,19,Heart Disease,Measles,"Muscle Pain, Fatigue","Ultrasound, Stool Test, CBC","Antimalarial, Vitamin C, Antihistamine"
+81,Male,Gilgit-Baltistan,9,None,Hepatitis B,"Muscle Pain, Cough, Shortness of Breath","Blood Test, Stool Test, PCR","ORS, Antimalarial, Ibuprofen"
+66,Male,Azad Kashmir,9,Asthma,Hepatitis C,"Nausea, Abdominal Pain, Fatigue, Muscle Pain","Blood Test, CBC, Stool Test",Antihistamine
+14,Male,Punjab,7,None,Measles,"Cough, Muscle Pain",Urine Test,Vitamin C
+86,Male,Sindh,20,Hypertension,Hepatitis C,"Fatigue, Cough, Skin Rash, Nausea, Abdominal Pain","Ultrasound, PCR, Blood Test","Antibiotics, Ibuprofen"
+89,Male,Azad Kashmir,12,Kidney Disease,Dengue Fever,"Skin Rash, Fatigue, Muscle Pain, Nausea, Shortness of Breath","X-Ray, Stool Test, Ultrasound",Antihistamine
+10,Female,Balochistan,6,Kidney Disease,Asthma,"Headache, Muscle Pain, Fever, Cough","X-Ray, Urine Test, Ultrasound","Antimalarial, Vitamin C, ORS"
+73,Female,Punjab,26,Heart Disease,Influenza,"Muscle Pain, Headache, Fever, Cough","X-Ray, Stool Test","Antibiotics, Antihistamine"
+87,Female,Azad Kashmir,26,Heart Disease,Tuberculosis,"Fatigue, Cough, Muscle Pain, Headache, Abdominal Pain","Blood Test, X-Ray, CBC","Paracetamol, Ibuprofen, Antibiotics"
+54,Female,Punjab,20,Hypertension,Influenza,"Shortness of Breath, Vomiting","Blood Test, Ultrasound, CBC","Antihistamine, Ibuprofen, ORS"
+72,Male,Balochistan,11,Diabetes,Tuberculosis,"Cough, Vomiting, Skin Rash","X-Ray, PCR","Ibuprofen, ORS, Vitamin C"
+70,Female,Gilgit-Baltistan,16,Hypertension,Asthma,"Fever, Headache","CBC, Stool Test, Urine Test","Antibiotics, Antimalarial, Vitamin C"
+14,Male,Balochistan,5,Asthma,Leishmaniasis,"Nausea, Headache, Fatigue, Cough","PCR, X-Ray, Ultrasound","Antihistamine, ORS, Ibuprofen"
+19,Female,Islamabad Capital Territory,23,Liver Disease,Measles,"Skin Rash, Shortness of Breath, Abdominal Pain","PCR, Urine Test, Ultrasound","Vitamin C, ORS"
+81,Male,Punjab,8,Kidney Disease,Chickenpox,"Vomiting, Nausea, Cough, Abdominal Pain, Skin Rash",Urine Test,Antihistamine
+57,Female,Islamabad Capital Territory,1,Hypertension,Hepatitis A,"Shortness of Breath, Skin Rash, Abdominal Pain, Headache","CBC, PCR, Blood Test","Ibuprofen, ORS, Antimalarial"
+24,Male,Khyber Pakhtunkhwa,6,Heart Disease,Asthma,"Muscle Pain, Shortness of Breath, Skin Rash, Vomiting","X-Ray, Stool Test, Blood Test","Ibuprofen, Antimalarial"
+67,Male,Khyber Pakhtunkhwa,21,None,Malaria,"Cough, Vomiting","Urine Test, Ultrasound","ORS, Antibiotics"
+2,Male,Sindh,24,None,Hepatitis B,"Headache, Vomiting, Fever",PCR,"Antihistamine, Paracetamol, Antibiotics"
+18,Female,Khyber Pakhtunkhwa,2,Heart Disease,Hepatitis C,"Fever, Cough, Vomiting, Muscle Pain","Stool Test, Blood Test, Urine Test","Antibiotics, Paracetamol, Antimalarial"
+85,Female,Gilgit-Baltistan,6,None,Rabies,"Cough, Muscle Pain, Abdominal Pain, Fever",Stool Test,Paracetamol
+87,Female,Khyber Pakhtunkhwa,2,Heart Disease,Scabies,"Abdominal Pain, Cough, Muscle Pain","CBC, Urine Test","ORS, Ibuprofen"
+58,Male,Balochistan,24,Heart Disease,Hepatitis C,"Skin Rash, Abdominal Pain, Fatigue","Stool Test, CBC","ORS, Antimalarial"
+17,Male,Azad Kashmir,15,Asthma,Measles,"Vomiting, Fatigue, Headache, Muscle Pain, Abdominal Pain",Blood Test,"ORS, Ibuprofen, Antihistamine"
+9,Female,Punjab,5,Liver Disease,Tuberculosis,"Nausea, Headache, Cough, Fever","Ultrasound, CBC, Blood Test","Antihistamine, ORS, Vitamin C"
+1,Female,Khyber Pakhtunkhwa,2,Hypertension,Dengue Fever,"Cough, Nausea, Shortness of Breath, Vomiting, Abdominal Pain","Stool Test, Blood Test","Paracetamol, Vitamin C"
+82,Female,Balochistan,28,Diabetes,Malaria,"Nausea, Fever","Stool Test, Blood Test, CBC","Antimalarial, Antihistamine, Ibuprofen"
+85,Female,Balochistan,13,Heart Disease,Scabies,"Cough, Skin Rash, Vomiting, Nausea, Headache",X-Ray,"Antimalarial, Antihistamine"
+21,Female,Islamabad Capital Territory,23,Diabetes,Meningitis,"Fatigue, Skin Rash","X-Ray, Stool Test, CBC",Ibuprofen
+11,Female,Punjab,27,Kidney Disease,Meningitis,"Nausea, Abdominal Pain","PCR, X-Ray, Ultrasound",Vitamin C
+9,Female,Balochistan,7,None,Measles,"Abdominal Pain, Fatigue",CBC,Ibuprofen
+46,Male,Khyber Pakhtunkhwa,10,Kidney Disease,Cholera,"Fever, Cough, Skin Rash, Abdominal Pain","Ultrasound, X-Ray",Vitamin C
+14,Female,Balochistan,5,None,Tuberculosis,"Skin Rash, Cough",PCR,"Vitamin C, Antimalarial, Antihistamine"
+38,Male,Sindh,16,Diabetes,Hepatitis C,"Fatigue, Abdominal Pain, Headache, Cough","Ultrasound, X-Ray, Urine Test","Vitamin C, Ibuprofen"
+87,Male,Azad Kashmir,8,Heart Disease,Polio,"Shortness of Breath, Fever, Abdominal Pain, Muscle Pain","PCR, CBC",Vitamin C
+64,Female,Balochistan,6,Kidney Disease,Whooping Cough,"Abdominal Pain, Headache, Fatigue, Cough, Muscle Pain","Ultrasound, Blood Test, X-Ray","Antihistamine, Ibuprofen, Paracetamol"
+78,Male,Khyber Pakhtunkhwa,10,Diabetes,Hepatitis A,"Fever, Vomiting, Skin Rash, Cough","CBC, Stool Test","Ibuprofen, Paracetamol"
+41,Female,Gilgit-Baltistan,3,Kidney Disease,Asthma,"Vomiting, Abdominal Pain","Blood Test, X-Ray",ORS
+31,Male,Balochistan,8,Kidney Disease,Hepatitis A,"Headache, Fatigue, Muscle Pain","Ultrasound, Blood Test, Urine Test","ORS, Antihistamine, Vitamin C"
+83,Female,Gilgit-Baltistan,14,Heart Disease,Pneumonia,"Fever, Shortness of Breath","PCR, Urine Test, Stool Test",Antihistamine
+77,Male,Gilgit-Baltistan,29,Hypertension,Asthma,"Muscle Pain, Vomiting, Shortness of Breath","PCR, Ultrasound","Paracetamol, Ibuprofen"
+60,Female,Gilgit-Baltistan,18,Kidney Disease,Leishmaniasis,"Shortness of Breath, Abdominal Pain","X-Ray, Blood Test, Urine Test",Antibiotics
+74,Male,Balochistan,26,None,Scabies,"Shortness of Breath, Muscle Pain, Fever, Fatigue","Stool Test, Ultrasound, PCR",Antibiotics
+29,Female,Balochistan,15,Hypertension,Asthma,"Vomiting, Cough, Abdominal Pain, Shortness of Breath, Fever",Urine Test,Antihistamine
+64,Female,Punjab,6,Asthma,Malaria,"Abdominal Pain, Nausea, Shortness of Breath, Skin Rash","Ultrasound, Urine Test",Antibiotics
+48,Male,Punjab,17,Heart Disease,Asthma,"Abdominal Pain, Nausea, Headache","PCR, CBC, Urine Test","Antihistamine, Vitamin C, Antibiotics"
+24,Female,Islamabad Capital Territory,24,Heart Disease,Leishmaniasis,"Headache, Fever, Skin Rash, Vomiting, Shortness of Breath",Urine Test,"Vitamin C, Antimalarial, Antihistamine"
+76,Male,Sindh,16,Heart Disease,Meningitis,"Skin Rash, Headache","CBC, Blood Test",Antibiotics
+36,Male,Azad Kashmir,23,Hypertension,Rabies,"Abdominal Pain, Shortness of Breath, Skin Rash, Cough, Fatigue","Blood Test, X-Ray, CBC",Ibuprofen
+9,Male,Balochistan,21,None,Hepatitis A,"Abdominal Pain, Muscle Pain, Nausea, Shortness of Breath, Headache","X-Ray, Urine Test, Ultrasound","ORS, Antihistamine, Vitamin C"
+12,Female,Khyber Pakhtunkhwa,4,Kidney Disease,Hepatitis B,"Vomiting, Fever, Muscle Pain","Stool Test, X-Ray, PCR",Antihistamine
+88,Female,Balochistan,5,Asthma,Typhoid,"Headache, Vomiting, Muscle Pain","CBC, X-Ray",ORS
+48,Female,Gilgit-Baltistan,6,Asthma,Asthma,"Skin Rash, Shortness of Breath","Stool Test, Urine Test, PCR","Ibuprofen, Antibiotics"
+3,Female,Gilgit-Baltistan,16,Asthma,Pneumonia,"Fatigue, Headache, Fever, Vomiting","Blood Test, Ultrasound","Antibiotics, ORS, Antimalarial"
+50,Female,Balochistan,10,Hypertension,Polio,"Skin Rash, Cough, Fever, Headache",Stool Test,"ORS, Antimalarial"
+43,Male,Azad Kashmir,8,None,Chickenpox,"Muscle Pain, Abdominal Pain, Headache, Vomiting",Stool Test,"Paracetamol, Antimalarial, Antibiotics"
+74,Female,Islamabad Capital Territory,30,Liver Disease,Hepatitis A,"Nausea, Skin Rash, Muscle Pain, Fatigue, Cough",Urine Test,"Antihistamine, Vitamin C, Paracetamol"
+38,Female,Sindh,24,Asthma,Hepatitis A,"Headache, Shortness of Breath, Vomiting",Urine Test,"Vitamin C, ORS"
+27,Male,Khyber Pakhtunkhwa,17,Heart Disease,Hepatitis C,"Fever, Vomiting, Nausea, Cough","PCR, X-Ray","Antibiotics, Antimalarial, ORS"
+61,Male,Khyber Pakhtunkhwa,5,Kidney Disease,Diarrhea,"Muscle Pain, Cough, Shortness of Breath, Skin Rash, Nausea","Blood Test, Stool Test, Urine Test",Antimalarial
+56,Female,Punjab,2,Liver Disease,Leishmaniasis,"Skin Rash, Fatigue, Muscle Pain, Fever",PCR,"Ibuprofen, Antibiotics"
+69,Male,Islamabad Capital Territory,12,Asthma,Chickenpox,"Fatigue, Nausea, Shortness of Breath","CBC, Blood Test","Antimalarial, Vitamin C"
+33,Female,Azad Kashmir,23,Heart Disease,Malaria,"Fever, Nausea, Vomiting, Shortness of Breath, Skin Rash","CBC, Blood Test, Ultrasound",Ibuprofen
+3,Female,Gilgit-Baltistan,30,Kidney Disease,Polio,"Fatigue, Vomiting","CBC, X-Ray","ORS, Paracetamol"
+81,Female,Sindh,17,Diabetes,Hepatitis C,"Fatigue, Vomiting, Nausea","PCR, X-Ray","Antimalarial, Antibiotics, Paracetamol"
+49,Male,Khyber Pakhtunkhwa,20,Liver Disease,Hepatitis A,"Cough, Abdominal Pain, Muscle Pain","X-Ray, Stool Test, Blood Test",Paracetamol
+76,Female,Gilgit-Baltistan,3,Asthma,Whooping Cough,"Shortness of Breath, Fatigue, Abdominal Pain, Vomiting, Cough",Blood Test,"Ibuprofen, Antihistamine, Paracetamol"
+61,Male,Khyber Pakhtunkhwa,3,Hypertension,Hepatitis B,"Abdominal Pain, Skin Rash","Urine Test, Blood Test","Antihistamine, Paracetamol"
+68,Female,Khyber Pakhtunkhwa,20,None,Hepatitis B,"Headache, Nausea, Skin Rash, Vomiting, Fever","Ultrasound, X-Ray, Stool Test","Antihistamine, Antimalarial, Antibiotics"
+61,Female,Islamabad Capital Territory,10,Kidney Disease,Meningitis,"Fatigue, Cough",Blood Test,"Antibiotics, Paracetamol, Antimalarial"
+5,Male,Khyber Pakhtunkhwa,6,Liver Disease,Malaria,"Skin Rash, Fever","Ultrasound, CBC, X-Ray","Antihistamine, ORS"
+53,Female,Azad Kashmir,27,Kidney Disease,Measles,"Skin Rash, Headache","X-Ray, PCR","Paracetamol, ORS, Antimalarial"
+25,Male,Sindh,23,Liver Disease,Malaria,"Skin Rash, Cough, Fatigue, Abdominal Pain","PCR, Blood Test, CBC","Antihistamine, Antibiotics, ORS"
+55,Female,Punjab,17,Kidney Disease,Rabies,"Nausea, Headache, Vomiting, Fatigue","CBC, X-Ray, Blood Test","Antihistamine, Antibiotics, Vitamin C"
+2,Female,Gilgit-Baltistan,13,Diabetes,Chickenpox,"Shortness of Breath, Vomiting, Muscle Pain, Headache","Stool Test, Blood Test, PCR",Vitamin C
+16,Male,Khyber Pakhtunkhwa,13,Diabetes,Scabies,"Shortness of Breath, Headache, Skin Rash",X-Ray,Paracetamol
+10,Male,Khyber Pakhtunkhwa,24,None,Cholera,"Skin Rash, Headache, Vomiting","Blood Test, PCR","ORS, Antibiotics, Paracetamol"
+35,Female,Balochistan,30,None,Meningitis,"Shortness of Breath, Cough, Fatigue, Nausea, Fever",Urine Test,"Vitamin C, Antimalarial, Antibiotics"
+88,Male,Punjab,24,Hypertension,Polio,"Vomiting, Fever, Nausea, Fatigue",CBC,"Vitamin C, Ibuprofen, Antihistamine"
+21,Female,Balochistan,27,Kidney Disease,Meningitis,"Shortness of Breath, Fever","CBC, X-Ray","Antihistamine, Antimalarial, Antibiotics"
+13,Male,Sindh,1,Kidney Disease,Hepatitis C,"Muscle Pain, Headache","PCR, Urine Test, X-Ray","ORS, Paracetamol, Antimalarial"
+68,Male,Azad Kashmir,15,Asthma,Asthma,"Muscle Pain, Shortness of Breath, Headache, Nausea, Fever","Blood Test, Stool Test, X-Ray","Paracetamol, Antimalarial"
+70,Male,Sindh,23,None,Meningitis,"Fever, Muscle Pain, Nausea",Ultrasound,"Antibiotics, ORS, Antihistamine"
+41,Female,Islamabad Capital Territory,17,Heart Disease,Influenza,"Fever, Shortness of Breath, Abdominal Pain, Fatigue",CBC,"Antimalarial, ORS"
+10,Male,Punjab,6,Diabetes,Influenza,"Headache, Fever, Muscle Pain, Nausea","X-Ray, PCR, Blood Test","Vitamin C, Ibuprofen"
+65,Male,Islamabad Capital Territory,23,Liver Disease,Cholera,"Headache, Fatigue","Ultrasound, Stool Test",Ibuprofen
+7,Male,Islamabad Capital Territory,14,None,Diarrhea,"Abdominal Pain, Fever","X-Ray, Stool Test","ORS, Vitamin C, Ibuprofen"
+81,Female,Balochistan,24,None,Whooping Cough,"Shortness of Breath, Headache","Urine Test, Blood Test, CBC","Antihistamine, Antibiotics"
+84,Female,Khyber Pakhtunkhwa,5,Diabetes,Asthma,"Vomiting, Fatigue, Skin Rash, Cough, Muscle Pain",PCR,"Paracetamol, Ibuprofen"
+17,Female,Islamabad Capital Territory,8,Asthma,Tuberculosis,"Nausea, Muscle Pain, Shortness of Breath","Stool Test, Ultrasound, Urine Test","Antimalarial, ORS"
+24,Female,Khyber Pakhtunkhwa,7,Asthma,Tuberculosis,"Headache, Skin Rash, Cough, Vomiting","Stool Test, Urine Test","Paracetamol, Ibuprofen, Antibiotics"
+66,Male,Islamabad Capital Territory,27,Hypertension,Dengue Fever,"Abdominal Pain, Fatigue, Headache","Ultrasound, Stool Test, PCR",Antimalarial
+57,Male,Punjab,11,Kidney Disease,Whooping Cough,"Fatigue, Vomiting, Abdominal Pain",Ultrasound,"Vitamin C, ORS"
+32,Male,Punjab,25,Diabetes,Pneumonia,"Abdominal Pain, Cough",PCR,Ibuprofen
+15,Female,Punjab,1,Hypertension,Whooping Cough,"Muscle Pain, Cough, Nausea, Shortness of Breath","Ultrasound, PCR, Urine Test","Antihistamine, Antibiotics, Antimalarial"
+16,Female,Khyber Pakhtunkhwa,12,Hypertension,Cholera,"Headache, Vomiting, Skin Rash, Fever",CBC,"Ibuprofen, Paracetamol, Antimalarial"
+52,Female,Azad Kashmir,21,Kidney Disease,Tuberculosis,"Headache, Cough, Fever",Ultrasound,Antimalarial
+89,Male,Sindh,22,Kidney Disease,Typhoid,"Abdominal Pain, Fatigue","Ultrasound, Blood Test, Urine Test","Antimalarial, Ibuprofen"
+27,Male,Azad Kashmir,25,Kidney Disease,Asthma,"Vomiting, Fatigue, Nausea","X-Ray, Stool Test, Urine Test","Antimalarial, Ibuprofen"
+85,Female,Punjab,8,Heart Disease,Asthma,"Cough, Abdominal Pain, Fatigue, Vomiting","X-Ray, Blood Test, PCR","Ibuprofen, Antihistamine, Paracetamol"
+37,Male,Gilgit-Baltistan,15,Liver Disease,Chickenpox,"Cough, Fatigue, Fever, Vomiting, Headache","PCR, Stool Test","Ibuprofen, Vitamin C, ORS"
+9,Male,Khyber Pakhtunkhwa,28,Liver Disease,Chickenpox,"Skin Rash, Shortness of Breath, Fatigue, Headache","Ultrasound, Blood Test",Vitamin C
+73,Male,Sindh,20,None,Diarrhea,"Cough, Nausea","Ultrasound, Stool Test","Ibuprofen, Antibiotics"
+25,Female,Islamabad Capital Territory,29,Liver Disease,Pneumonia,"Cough, Shortness of Breath","Ultrasound, CBC, X-Ray","Antibiotics, Antihistamine"
+83,Female,Sindh,30,Kidney Disease,Hepatitis B,"Skin Rash, Abdominal Pain, Cough, Shortness of Breath, Fever","CBC, Urine Test, PCR","Vitamin C, Antibiotics, Ibuprofen"
+83,Male,Khyber Pakhtunkhwa,13,Asthma,Influenza,"Nausea, Abdominal Pain, Fever","Ultrasound, X-Ray","Antihistamine, Paracetamol"
+66,Female,Balochistan,4,Liver Disease,Cholera,"Fever, Headache, Cough","X-Ray, Urine Test","Ibuprofen, Antimalarial"
+17,Female,Khyber Pakhtunkhwa,5,Heart Disease,Hepatitis B,"Fatigue, Muscle Pain, Vomiting, Abdominal Pain",CBC,"Paracetamol, Antihistamine"
+29,Female,Azad Kashmir,11,Asthma,Hepatitis C,"Nausea, Shortness of Breath, Cough, Abdominal Pain","X-Ray, Ultrasound, Blood Test","Antihistamine, Antibiotics"
+5,Female,Sindh,12,Liver Disease,Cholera,"Cough, Skin Rash, Vomiting, Headache",CBC,"Antibiotics, Antihistamine"
+86,Female,Khyber Pakhtunkhwa,6,Liver Disease,Diarrhea,"Skin Rash, Shortness of Breath",Stool Test,"Paracetamol, Antihistamine, Antimalarial"
+63,Male,Islamabad Capital Territory,3,Asthma,Cholera,"Abdominal Pain, Vomiting, Nausea","Ultrasound, PCR","Ibuprofen, Paracetamol, Vitamin C"
+25,Female,Khyber Pakhtunkhwa,20,Hypertension,Tuberculosis,"Fatigue, Abdominal Pain, Muscle Pain, Cough, Fever","Stool Test, Ultrasound, Urine Test","Vitamin C, Paracetamol"
+71,Female,Punjab,6,Asthma,Chickenpox,"Muscle Pain, Shortness of Breath, Abdominal Pain, Skin Rash",Ultrasound,Antimalarial
+46,Male,Balochistan,5,Hypertension,Influenza,"Abdominal Pain, Skin Rash, Vomiting, Shortness of Breath","PCR, Stool Test, Urine Test","ORS, Antibiotics, Antihistamine"
+44,Male,Khyber Pakhtunkhwa,1,Kidney Disease,Leishmaniasis,"Skin Rash, Fever, Cough, Headache, Fatigue","CBC, Stool Test","Antimalarial, ORS, Antibiotics"
+62,Male,Punjab,26,Asthma,Polio,"Skin Rash, Nausea, Cough","Urine Test, Stool Test, Ultrasound","Antihistamine, Ibuprofen"
+61,Male,Gilgit-Baltistan,15,Heart Disease,Hepatitis C,"Abdominal Pain, Skin Rash, Vomiting, Fatigue","Urine Test, CBC",Antihistamine
+56,Female,Azad Kashmir,25,None,Scabies,"Headache, Cough, Vomiting, Fever, Abdominal Pain",PCR,"ORS, Vitamin C"
+14,Female,Islamabad Capital Territory,5,Liver Disease,Cholera,"Abdominal Pain, Skin Rash",X-Ray,Antibiotics
+83,Female,Balochistan,22,None,Whooping Cough,"Abdominal Pain, Shortness of Breath, Skin Rash, Nausea, Muscle Pain","CBC, Urine Test",ORS
+74,Female,Khyber Pakhtunkhwa,19,Liver Disease,Dengue Fever,"Muscle Pain, Nausea, Abdominal Pain","CBC, X-Ray","Antibiotics, ORS"
+68,Female,Gilgit-Baltistan,19,Asthma,Influenza,"Shortness of Breath, Skin Rash",Ultrasound,"Antibiotics, Antihistamine, Antimalarial"
+26,Male,Islamabad Capital Territory,16,None,Malaria,"Nausea, Skin Rash, Cough, Shortness of Breath, Muscle Pain",Urine Test,"Vitamin C, Antihistamine, Antimalarial"
+5,Female,Gilgit-Baltistan,26,Diabetes,Dengue Fever,"Abdominal Pain, Skin Rash, Muscle Pain, Shortness of Breath, Cough","Stool Test, Ultrasound","Antimalarial, Antihistamine"
+56,Female,Balochistan,14,Liver Disease,Tuberculosis,"Fatigue, Abdominal Pain, Cough","Blood Test, X-Ray",Antihistamine
+5,Female,Azad Kashmir,8,Heart Disease,Dengue Fever,"Nausea, Shortness of Breath, Skin Rash, Fatigue","PCR, X-Ray",Antibiotics
+26,Female,Khyber Pakhtunkhwa,23,Diabetes,Hepatitis A,"Abdominal Pain, Cough, Nausea",CBC,"Antibiotics, ORS"
+85,Female,Punjab,5,Heart Disease,Influenza,"Nausea, Abdominal Pain, Fever, Muscle Pain, Skin Rash","Ultrasound, PCR",Antihistamine
+44,Female,Gilgit-Baltistan,10,Kidney Disease,Dengue Fever,"Abdominal Pain, Muscle Pain, Fatigue, Skin Rash",Ultrasound,Antimalarial
+82,Male,Gilgit-Baltistan,16,Asthma,Hepatitis B,"Fatigue, Cough, Fever",Stool Test,Antimalarial
+8,Male,Azad Kashmir,28,Hypertension,Typhoid,"Fatigue, Vomiting","Stool Test, Urine Test","Paracetamol, Antibiotics"
+89,Female,Balochistan,15,Asthma,Dengue Fever,"Abdominal Pain, Fatigue, Cough","Urine Test, X-Ray","Ibuprofen, Antibiotics"
+51,Female,Punjab,27,Heart Disease,Pneumonia,"Abdominal Pain, Nausea",Blood Test,"Antimalarial, Paracetamol"
+2,Female,Azad Kashmir,14,Heart Disease,Leishmaniasis,"Skin Rash, Muscle Pain, Abdominal Pain, Cough, Fatigue","X-Ray, CBC",Paracetamol
+27,Female,Sindh,27,None,Rabies,"Fatigue, Fever",PCR,Antimalarial
+44,Female,Khyber Pakhtunkhwa,22,Hypertension,Polio,"Vomiting, Fatigue, Cough","CBC, X-Ray",Ibuprofen
+81,Female,Punjab,29,Liver Disease,Leishmaniasis,"Shortness of Breath, Nausea","Urine Test, PCR","Paracetamol, Vitamin C"
+8,Male,Islamabad Capital Territory,12,Hypertension,Measles,"Headache, Fever, Vomiting, Fatigue, Skin Rash",Blood Test,"Vitamin C, Paracetamol"
+84,Male,Khyber Pakhtunkhwa,3,Asthma,Cholera,"Skin Rash, Muscle Pain",Ultrasound,Paracetamol
+55,Female,Sindh,23,Heart Disease,Hepatitis A,"Muscle Pain, Nausea","X-Ray, CBC","Paracetamol, Vitamin C, ORS"
+8,Female,Khyber Pakhtunkhwa,11,Heart Disease,Scabies,"Shortness of Breath, Fatigue, Abdominal Pain","X-Ray, Stool Test",Antimalarial
+38,Male,Sindh,27,None,Malaria,"Fatigue, Skin Rash, Cough, Headache, Abdominal Pain","Urine Test, PCR, CBC",Antihistamine
+37,Male,Khyber Pakhtunkhwa,16,Asthma,Asthma,"Fatigue, Shortness of Breath, Skin Rash, Muscle Pain","PCR, Blood Test","Vitamin C, Ibuprofen, Paracetamol"
+5,Female,Balochistan,18,Diabetes,Diarrhea,"Vomiting, Skin Rash, Fever, Headache, Abdominal Pain",Ultrasound,"Paracetamol, Antihistamine, Ibuprofen"
+71,Female,Sindh,3,Kidney Disease,Rabies,"Vomiting, Muscle Pain, Fatigue, Headache, Shortness of Breath","PCR, X-Ray","Antibiotics, Antimalarial"
+43,Female,Islamabad Capital Territory,22,Liver Disease,Rabies,"Fatigue, Shortness of Breath, Skin Rash, Cough, Muscle Pain",Urine Test,Antimalarial
+84,Male,Balochistan,1,Diabetes,Scabies,"Cough, Fever","X-Ray, PCR, Ultrasound","Antihistamine, Vitamin C, Ibuprofen"
+37,Male,Gilgit-Baltistan,14,None,Influenza,"Shortness of Breath, Skin Rash","Urine Test, CBC, PCR",Antimalarial
+68,Male,Islamabad Capital Territory,24,Diabetes,Hepatitis A,"Fatigue, Abdominal Pain, Nausea","X-Ray, CBC, Ultrasound","Antimalarial, ORS, Antibiotics"
+46,Female,Sindh,1,Hypertension,Hepatitis A,"Abdominal Pain, Headache, Muscle Pain, Skin Rash, Vomiting",Urine Test,ORS
+87,Male,Gilgit-Baltistan,13,Diabetes,Cholera,"Muscle Pain, Skin Rash","Ultrasound, X-Ray","Paracetamol, ORS, Vitamin C"
+61,Male,Punjab,1,Heart Disease,Meningitis,"Abdominal Pain, Skin Rash, Headache, Fever",Stool Test,"Antihistamine, Antimalarial, Ibuprofen"
+33,Female,Azad Kashmir,25,None,Rabies,"Headache, Shortness of Breath","Urine Test, X-Ray, Stool Test","Antimalarial, Antibiotics, ORS"
+11,Male,Balochistan,12,Hypertension,Hepatitis C,"Headache, Vomiting",CBC,"Antihistamine, Antibiotics"
+88,Female,Islamabad Capital Territory,2,Diabetes,Measles,"Skin Rash, Fatigue, Fever, Cough","PCR, Ultrasound, Blood Test","Antimalarial, Antibiotics, Antihistamine"
+38,Male,Azad Kashmir,14,Diabetes,Typhoid,"Nausea, Abdominal Pain",X-Ray,"Ibuprofen, Paracetamol"
+30,Female,Punjab,25,None,Whooping Cough,"Vomiting, Abdominal Pain, Muscle Pain, Cough","Urine Test, X-Ray, Ultrasound",Antibiotics
+90,Male,Balochistan,29,Diabetes,Chickenpox,"Fever, Abdominal Pain, Cough",Urine Test,Antibiotics
+70,Male,Islamabad Capital Territory,21,Diabetes,Typhoid,"Skin Rash, Muscle Pain, Abdominal Pain","Ultrasound, CBC",Paracetamol
+77,Female,Balochistan,22,Diabetes,Asthma,"Nausea, Abdominal Pain",Ultrasound,Paracetamol
+68,Female,Azad Kashmir,10,Asthma,Hepatitis B,"Cough, Vomiting, Nausea",Blood Test,Antibiotics
+12,Male,Gilgit-Baltistan,2,Heart Disease,Asthma,"Nausea, Muscle Pain, Shortness of Breath, Skin Rash, Fatigue",X-Ray,ORS
+41,Female,Punjab,4,None,Cholera,"Fatigue, Abdominal Pain, Fever, Shortness of Breath","Blood Test, CBC",Ibuprofen
+63,Male,Azad Kashmir,13,Kidney Disease,Pneumonia,"Vomiting, Fatigue, Nausea","CBC, X-Ray, Stool Test","Ibuprofen, Antimalarial"
+67,Male,Sindh,1,Liver Disease,Asthma,"Shortness of Breath, Vomiting, Fever, Fatigue, Skin Rash","PCR, Blood Test, Urine Test","ORS, Antihistamine"
+54,Female,Islamabad Capital Territory,10,Diabetes,Rabies,"Shortness of Breath, Vomiting","Stool Test, Blood Test","Antimalarial, Ibuprofen"
+16,Female,Islamabad Capital Territory,21,Asthma,Meningitis,"Fever, Cough, Shortness of Breath","Ultrasound, CBC",Antimalarial
+26,Female,Punjab,21,Hypertension,Malaria,"Abdominal Pain, Vomiting, Muscle Pain, Skin Rash, Shortness of Breath","Ultrasound, Stool Test",Paracetamol
+21,Female,Gilgit-Baltistan,22,Asthma,Measles,"Fatigue, Abdominal Pain, Headache, Nausea, Shortness of Breath",X-Ray,Antibiotics
+85,Male,Islamabad Capital Territory,18,Hypertension,Chickenpox,"Cough, Shortness of Breath, Muscle Pain, Vomiting, Fever","PCR, Stool Test, Blood Test",ORS
+72,Female,Sindh,16,Heart Disease,Typhoid,"Headache, Fatigue, Nausea",Ultrasound,Antibiotics
+24,Male,Islamabad Capital Territory,27,Heart Disease,Leishmaniasis,"Vomiting, Headache, Muscle Pain, Fatigue","Blood Test, Ultrasound",Antibiotics
+37,Female,Gilgit-Baltistan,22,Liver Disease,Measles,"Fever, Shortness of Breath, Vomiting, Cough, Skin Rash","Ultrasound, X-Ray, Blood Test","Paracetamol, Vitamin C"
+36,Male,Punjab,15,Asthma,Whooping Cough,"Muscle Pain, Abdominal Pain","Ultrasound, Urine Test, Blood Test","Antihistamine, Antimalarial"
+88,Male,Khyber Pakhtunkhwa,8,Hypertension,Hepatitis C,"Abdominal Pain, Fever, Cough","Stool Test, CBC, X-Ray","Antihistamine, ORS"
+66,Male,Islamabad Capital Territory,16,Asthma,Leishmaniasis,"Cough, Shortness of Breath, Muscle Pain","Stool Test, Urine Test, Blood Test","Antibiotics, Paracetamol"
+8,Female,Sindh,25,Heart Disease,Meningitis,"Fatigue, Headache, Muscle Pain",PCR,"Antimalarial, Antibiotics"
+24,Male,Sindh,28,Heart Disease,Typhoid,"Headache, Skin Rash, Nausea, Abdominal Pain, Cough","Urine Test, Blood Test",ORS
+87,Female,Islamabad Capital Territory,8,Hypertension,Malaria,"Abdominal Pain, Fever, Fatigue, Cough, Vomiting",PCR,Antihistamine
+32,Female,Khyber Pakhtunkhwa,26,Asthma,Chickenpox,"Nausea, Muscle Pain, Shortness of Breath, Fatigue","X-Ray, Urine Test",ORS
+52,Male,Sindh,10,Hypertension,Cholera,"Muscle Pain, Nausea, Cough, Shortness of Breath, Vomiting","CBC, PCR","Antihistamine, Antibiotics, Ibuprofen"
+27,Male,Sindh,28,Liver Disease,Rabies,"Nausea, Shortness of Breath",CBC,Antibiotics
+22,Female,Khyber Pakhtunkhwa,26,Heart Disease,Hepatitis A,"Nausea, Muscle Pain, Cough, Vomiting",CBC,Vitamin C
+5,Female,Balochistan,9,Liver Disease,Leishmaniasis,"Shortness of Breath, Fever, Nausea","PCR, CBC, Urine Test","Antihistamine, Vitamin C, ORS"
+73,Male,Gilgit-Baltistan,7,Kidney Disease,Scabies,"Skin Rash, Cough, Headache",CBC,Antibiotics
+49,Female,Khyber Pakhtunkhwa,27,Asthma,Pneumonia,"Headache, Abdominal Pain, Fatigue, Skin Rash, Shortness of Breath","X-Ray, Blood Test, Ultrasound",Vitamin C
+6,Male,Azad Kashmir,15,Heart Disease,Meningitis,"Skin Rash, Headache, Nausea","Urine Test, Ultrasound",Paracetamol
+80,Female,Gilgit-Baltistan,6,None,Influenza,"Nausea, Muscle Pain","X-Ray, Blood Test",ORS
+14,Male,Azad Kashmir,28,None,Typhoid,"Skin Rash, Vomiting, Nausea","Stool Test, Ultrasound, PCR",ORS
+40,Female,Khyber Pakhtunkhwa,3,None,Scabies,"Cough, Abdominal Pain, Muscle Pain, Fatigue, Vomiting","Ultrasound, X-Ray, Stool Test","Antihistamine, Vitamin C"
+67,Male,Gilgit-Baltistan,6,Hypertension,Hepatitis C,"Fever, Skin Rash",PCR,Antibiotics
+46,Male,Sindh,30,Asthma,Meningitis,"Skin Rash, Fever",Stool Test,Antihistamine
+3,Female,Azad Kashmir,19,Liver Disease,Meningitis,"Abdominal Pain, Muscle Pain","Urine Test, Ultrasound","ORS, Antihistamine, Antibiotics"
+21,Male,Gilgit-Baltistan,2,Kidney Disease,Scabies,"Nausea, Shortness of Breath, Abdominal Pain, Vomiting",CBC,"ORS, Antibiotics, Antimalarial"
+58,Male,Gilgit-Baltistan,30,Asthma,Rabies,"Abdominal Pain, Muscle Pain, Fever",Ultrasound,"ORS, Paracetamol, Antimalarial"
+54,Female,Islamabad Capital Territory,29,Diabetes,Malaria,"Cough, Headache, Fever, Shortness of Breath",PCR,Antihistamine
+87,Female,Azad Kashmir,9,Liver Disease,Influenza,"Fatigue, Cough, Skin Rash",Urine Test,"Paracetamol, Antibiotics, Antimalarial"
+45,Male,Balochistan,25,None,Asthma,"Fever, Headache, Fatigue, Skin Rash",Ultrasound,"Ibuprofen, Paracetamol"
+80,Male,Islamabad Capital Territory,8,Asthma,Influenza,"Fatigue, Skin Rash, Shortness of Breath, Cough","Stool Test, Ultrasound, CBC","Vitamin C, Antimalarial"
+42,Male,Gilgit-Baltistan,4,Kidney Disease,Tuberculosis,"Skin Rash, Vomiting, Fever, Headache","Ultrasound, Stool Test, X-Ray","Antihistamine, Paracetamol"
+63,Male,Islamabad Capital Territory,4,None,Influenza,"Shortness of Breath, Skin Rash","CBC, Ultrasound, Blood Test",Ibuprofen
+50,Female,Islamabad Capital Territory,27,Liver Disease,Pneumonia,"Muscle Pain, Abdominal Pain, Fever, Headache","PCR, CBC, Urine Test","Vitamin C, Antihistamine"
+9,Female,Gilgit-Baltistan,23,Diabetes,Scabies,"Vomiting, Skin Rash, Cough, Fatigue","Blood Test, Ultrasound",Antimalarial
+85,Male,Punjab,30,Hypertension,Hepatitis C,"Abdominal Pain, Muscle Pain, Headache, Vomiting, Shortness of Breath","Urine Test, Ultrasound",Antibiotics
+13,Female,Punjab,12,Heart Disease,Diarrhea,"Vomiting, Headache, Abdominal Pain, Skin Rash",CBC,"Antibiotics, Paracetamol"
+73,Male,Balochistan,11,Diabetes,Whooping Cough,"Cough, Muscle Pain, Fatigue, Fever, Abdominal Pain","Blood Test, Ultrasound, Urine Test","Antimalarial, Paracetamol"
+45,Male,Islamabad Capital Territory,16,None,Pneumonia,"Fatigue, Fever","Ultrasound, Urine Test, Stool Test",Antihistamine
+47,Male,Azad Kashmir,12,Diabetes,Hepatitis B,"Shortness of Breath, Fatigue, Headache",X-Ray,"Vitamin C, Antihistamine, Paracetamol"
+33,Female,Khyber Pakhtunkhwa,30,Kidney Disease,Typhoid,"Headache, Nausea, Shortness of Breath, Muscle Pain, Skin Rash","CBC, Ultrasound",Paracetamol
+33,Female,Punjab,28,Diabetes,Diarrhea,"Fatigue, Skin Rash, Nausea, Vomiting","Stool Test, Blood Test, X-Ray",Vitamin C
+20,Female,Balochistan,14,Liver Disease,Cholera,"Fever, Skin Rash, Headache, Nausea","Ultrasound, Stool Test","Antimalarial, Ibuprofen, Antihistamine"
+35,Female,Azad Kashmir,4,Asthma,Leishmaniasis,"Cough, Fever, Fatigue","Stool Test, CBC","Ibuprofen, Paracetamol"
+68,Male,Sindh,7,Kidney Disease,Pneumonia,"Fever, Skin Rash, Headache","Stool Test, Ultrasound, PCR","Antibiotics, Antimalarial"
+85,Male,Azad Kashmir,5,Asthma,Dengue Fever,"Headache, Fatigue, Vomiting, Cough, Abdominal Pain","Stool Test, Ultrasound",ORS
+76,Male,Sindh,28,Diabetes,Pneumonia,"Vomiting, Shortness of Breath, Nausea, Abdominal Pain","PCR, Stool Test","Antimalarial, Paracetamol"
+75,Male,Islamabad Capital Territory,25,Liver Disease,Rabies,"Fever, Headache, Skin Rash","Blood Test, Ultrasound, CBC",ORS
+37,Female,Punjab,16,Kidney Disease,Cholera,"Nausea, Muscle Pain, Cough, Abdominal Pain","Stool Test, Urine Test, PCR","Antihistamine, Vitamin C"
+62,Female,Islamabad Capital Territory,16,None,Diarrhea,"Headache, Vomiting, Shortness of Breath, Skin Rash","CBC, PCR","Paracetamol, Antihistamine, Antimalarial"
+74,Female,Khyber Pakhtunkhwa,20,Diabetes,Hepatitis C,"Fever, Fatigue, Cough, Muscle Pain, Vomiting","Urine Test, CBC","Antibiotics, Ibuprofen"
+44,Female,Azad Kashmir,14,Liver Disease,Meningitis,"Fatigue, Cough, Fever","Blood Test, X-Ray, Stool Test",Ibuprofen
+17,Male,Gilgit-Baltistan,2,Diabetes,Hepatitis B,"Abdominal Pain, Fever, Shortness of Breath","Ultrasound, Stool Test, X-Ray","Vitamin C, Paracetamol"
+77,Female,Gilgit-Baltistan,16,Liver Disease,Hepatitis A,"Nausea, Cough, Skin Rash, Fatigue, Headache","Stool Test, X-Ray, PCR","Ibuprofen, Antihistamine, Paracetamol"
+10,Male,Balochistan,7,Liver Disease,Pneumonia,"Muscle Pain, Nausea, Cough","Urine Test, PCR","Antimalarial, ORS"
+42,Female,Islamabad Capital Territory,29,None,Measles,"Abdominal Pain, Cough, Nausea, Skin Rash, Vomiting",Stool Test,"Antimalarial, Antihistamine"
+89,Male,Balochistan,19,Diabetes,Cholera,"Skin Rash, Fatigue, Vomiting, Cough","Urine Test, X-Ray, Blood Test","Antimalarial, Vitamin C"
+10,Male,Punjab,20,None,Hepatitis C,"Shortness of Breath, Cough, Nausea, Abdominal Pain","Stool Test, X-Ray, Ultrasound",Vitamin C
+50,Female,Sindh,20,None,Tuberculosis,"Vomiting, Shortness of Breath, Muscle Pain, Cough, Abdominal Pain","Blood Test, Urine Test, X-Ray","Paracetamol, ORS, Ibuprofen"
+5,Male,Balochistan,22,Kidney Disease,Measles,"Muscle Pain, Shortness of Breath, Vomiting, Abdominal Pain","Ultrasound, Blood Test","Antihistamine, Antimalarial, Ibuprofen"
+70,Male,Punjab,12,None,Dengue Fever,"Shortness of Breath, Nausea","X-Ray, PCR",Paracetamol
+8,Female,Balochistan,25,Kidney Disease,Meningitis,"Vomiting, Shortness of Breath, Nausea","Stool Test, X-Ray","Antibiotics, ORS, Paracetamol"
+80,Male,Islamabad Capital Territory,4,Asthma,Leishmaniasis,"Cough, Headache, Shortness of Breath, Muscle Pain","Blood Test, PCR",Ibuprofen
+50,Male,Gilgit-Baltistan,29,Heart Disease,Rabies,"Cough, Headache, Nausea","PCR, CBC, Stool Test",Paracetamol
+82,Male,Islamabad Capital Territory,6,Asthma,Typhoid,"Shortness of Breath, Fatigue","Blood Test, X-Ray, Ultrasound","Ibuprofen, Vitamin C, Antimalarial"
+32,Male,Islamabad Capital Territory,13,Liver Disease,Chickenpox,"Fever, Nausea",Stool Test,"Ibuprofen, Vitamin C"
+39,Male,Balochistan,7,Liver Disease,Pneumonia,"Skin Rash, Cough, Nausea, Vomiting, Shortness of Breath",Stool Test,Antihistamine
+43,Female,Khyber Pakhtunkhwa,16,Heart Disease,Typhoid,"Abdominal Pain, Fever, Muscle Pain","X-Ray, Blood Test, Stool Test","Ibuprofen, Vitamin C"
+4,Male,Azad Kashmir,19,Hypertension,Hepatitis A,"Fatigue, Muscle Pain, Cough, Abdominal Pain","Stool Test, CBC","Vitamin C, Antibiotics, ORS"
+73,Female,Khyber Pakhtunkhwa,24,Diabetes,Whooping Cough,"Cough, Vomiting, Fever, Headache","PCR, Stool Test, Ultrasound",Ibuprofen
+67,Male,Sindh,13,Hypertension,Influenza,"Abdominal Pain, Cough, Fever, Shortness of Breath","X-Ray, Ultrasound","Antibiotics, Antimalarial"
+71,Male,Punjab,10,Asthma,Leishmaniasis,"Fever, Shortness of Breath, Cough",PCR,"Paracetamol, Vitamin C, Antihistamine"
+76,Male,Sindh,20,Diabetes,Meningitis,"Abdominal Pain, Shortness of Breath, Skin Rash",Ultrasound,"Ibuprofen, Paracetamol, Antihistamine"
+55,Male,Balochistan,8,Asthma,Asthma,"Muscle Pain, Cough",CBC,"Antimalarial, ORS, Antihistamine"
+53,Male,Gilgit-Baltistan,10,Asthma,Pneumonia,"Skin Rash, Abdominal Pain, Headache, Fever, Cough","Urine Test, Ultrasound","Antibiotics, Antihistamine, Ibuprofen"
+46,Male,Gilgit-Baltistan,29,Liver Disease,Diarrhea,"Abdominal Pain, Vomiting, Nausea, Skin Rash","PCR, Blood Test","Antibiotics, Ibuprofen"
+79,Female,Gilgit-Baltistan,1,Hypertension,Malaria,"Skin Rash, Cough, Nausea",Urine Test,"Antimalarial, Ibuprofen"
+2,Female,Khyber Pakhtunkhwa,21,Kidney Disease,Influenza,"Cough, Abdominal Pain, Headache, Vomiting","Ultrasound, Blood Test","ORS, Vitamin C"
+83,Female,Khyber Pakhtunkhwa,6,Liver Disease,Meningitis,"Cough, Vomiting","Stool Test, Ultrasound, X-Ray",Antibiotics
+23,Female,Balochistan,27,Asthma,Leishmaniasis,"Cough, Fatigue, Abdominal Pain","Ultrasound, Blood Test","Antihistamine, Antimalarial"
+66,Male,Gilgit-Baltistan,12,Hypertension,Cholera,"Fatigue, Nausea, Muscle Pain, Abdominal Pain","X-Ray, Urine Test, PCR",Ibuprofen
+86,Male,Gilgit-Baltistan,2,Liver Disease,Typhoid,"Nausea, Shortness of Breath, Muscle Pain, Fatigue, Cough",Blood Test,Antimalarial
+63,Male,Gilgit-Baltistan,15,Hypertension,Typhoid,"Fatigue, Headache, Muscle Pain, Cough, Skin Rash",PCR,"Antibiotics, ORS"
+87,Male,Sindh,11,Liver Disease,Meningitis,"Vomiting, Headache, Cough, Muscle Pain","PCR, Urine Test","Vitamin C, Antibiotics"
+81,Male,Khyber Pakhtunkhwa,18,Heart Disease,Rabies,"Shortness of Breath, Cough, Headache","PCR, Blood Test, X-Ray","Antihistamine, Antibiotics"
+46,Female,Khyber Pakhtunkhwa,30,None,Malaria,"Headache, Fatigue, Fever, Cough, Vomiting",Ultrasound,Vitamin C
+61,Male,Azad Kashmir,15,Kidney Disease,Pneumonia,"Fever, Abdominal Pain","CBC, Blood Test, Urine Test",ORS
+11,Female,Punjab,20,Asthma,Rabies,"Fatigue, Muscle Pain, Fever","Blood Test, Urine Test",Antibiotics
+65,Male,Islamabad Capital Territory,15,Hypertension,Scabies,"Abdominal Pain, Skin Rash, Shortness of Breath, Fever, Fatigue",Urine Test,"Antibiotics, Antihistamine"
+68,Male,Sindh,20,Heart Disease,Typhoid,"Cough, Fatigue",Urine Test,"ORS, Paracetamol, Antimalarial"
+89,Female,Punjab,25,Liver Disease,Polio,"Abdominal Pain, Fever, Vomiting, Fatigue","Blood Test, X-Ray","Vitamin C, Antibiotics, Antihistamine"
+88,Male,Gilgit-Baltistan,25,Hypertension,Dengue Fever,"Vomiting, Cough, Headache, Shortness of Breath","Stool Test, Urine Test","Ibuprofen, Vitamin C"
+57,Female,Punjab,12,Hypertension,Hepatitis C,"Vomiting, Skin Rash, Fatigue, Fever","Stool Test, Urine Test","Antimalarial, ORS, Vitamin C"
+72,Male,Sindh,10,Diabetes,Polio,"Muscle Pain, Headache",Stool Test,"Antibiotics, Ibuprofen, Antimalarial"
+61,Male,Gilgit-Baltistan,17,Asthma,Meningitis,"Abdominal Pain, Nausea, Skin Rash, Fatigue","X-Ray, PCR, Urine Test",Antimalarial
+28,Male,Sindh,17,None,Whooping Cough,"Vomiting, Cough, Abdominal Pain","CBC, Urine Test",Antimalarial
+46,Female,Islamabad Capital Territory,14,Kidney Disease,Scabies,"Fatigue, Fever, Muscle Pain","Ultrasound, Stool Test",Antimalarial
+88,Male,Sindh,13,Hypertension,Rabies,"Muscle Pain, Skin Rash, Vomiting, Fatigue","Urine Test, Stool Test",ORS
+51,Female,Sindh,7,Heart Disease,Scabies,"Shortness of Breath, Abdominal Pain, Fever","Stool Test, Blood Test","Paracetamol, Antimalarial, ORS"
+59,Female,Balochistan,14,Liver Disease,Hepatitis A,"Abdominal Pain, Fatigue, Vomiting, Fever","Blood Test, CBC, PCR","Vitamin C, Ibuprofen"
+40,Female,Azad Kashmir,1,Hypertension,Typhoid,"Nausea, Abdominal Pain, Headache, Skin Rash",Ultrasound,Antihistamine
+48,Female,Gilgit-Baltistan,11,Liver Disease,Hepatitis A,"Headache, Fever, Abdominal Pain, Cough, Fatigue","X-Ray, CBC","Antibiotics, Antihistamine, Ibuprofen"
+62,Female,Sindh,29,None,Typhoid,"Headache, Fever, Cough, Nausea","Urine Test, Blood Test","Paracetamol, Antihistamine"
+21,Female,Islamabad Capital Territory,4,Hypertension,Chickenpox,"Cough, Skin Rash, Fever","CBC, Stool Test, Urine Test",Paracetamol
+18,Female,Azad Kashmir,10,Heart Disease,Influenza,"Vomiting, Headache, Cough, Shortness of Breath",Ultrasound,"ORS, Antimalarial"
+9,Male,Punjab,15,Heart Disease,Whooping Cough,"Skin Rash, Cough",CBC,"ORS, Antibiotics"
+89,Female,Sindh,7,None,Hepatitis B,"Nausea, Fever","Urine Test, CBC, Blood Test","Vitamin C, Antibiotics"
+1,Male,Azad Kashmir,16,Diabetes,Whooping Cough,"Nausea, Headache, Shortness of Breath, Abdominal Pain",Ultrasound,"Vitamin C, Antibiotics, ORS"
+84,Female,Sindh,28,Hypertension,Typhoid,"Fatigue, Nausea, Fever, Vomiting",Ultrasound,"Paracetamol, Antihistamine, ORS"
+1,Male,Balochistan,7,Heart Disease,Leishmaniasis,"Shortness of Breath, Fatigue, Muscle Pain, Fever, Cough","CBC, Urine Test, Stool Test","Antihistamine, Paracetamol"
+75,Female,Sindh,26,Diabetes,Influenza,"Vomiting, Muscle Pain","Urine Test, Blood Test","Vitamin C, Antibiotics"
+16,Female,Gilgit-Baltistan,18,Liver Disease,Cholera,"Muscle Pain, Fever, Cough, Skin Rash, Fatigue","CBC, PCR, Stool Test","Ibuprofen, ORS, Antibiotics"
+21,Male,Islamabad Capital Territory,23,Asthma,Pneumonia,"Nausea, Skin Rash, Shortness of Breath, Headache","Ultrasound, Stool Test, X-Ray",Vitamin C
+32,Female,Sindh,20,Diabetes,Rabies,"Skin Rash, Vomiting, Cough","Blood Test, Stool Test",Antimalarial
+35,Male,Azad Kashmir,12,Diabetes,Rabies,"Fatigue, Cough, Muscle Pain, Headache, Fever",Urine Test,"ORS, Antihistamine"
+1,Female,Islamabad Capital Territory,28,Diabetes,Asthma,"Skin Rash, Shortness of Breath, Fatigue, Muscle Pain, Abdominal Pain",CBC,"Antibiotics, Antimalarial, Ibuprofen"
+25,Female,Gilgit-Baltistan,30,Asthma,Hepatitis A,"Nausea, Abdominal Pain, Skin Rash","Blood Test, Urine Test","Paracetamol, Antihistamine"
+3,Female,Gilgit-Baltistan,4,Liver Disease,Pneumonia,"Abdominal Pain, Skin Rash, Fever, Muscle Pain","Ultrasound, Blood Test, X-Ray",Paracetamol
+30,Female,Punjab,19,Asthma,Hepatitis B,"Headache, Muscle Pain, Skin Rash, Shortness of Breath, Nausea","Urine Test, Blood Test, Stool Test","Paracetamol, Antibiotics, Antihistamine"
+78,Female,Islamabad Capital Territory,13,Kidney Disease,Pneumonia,"Vomiting, Shortness of Breath","Urine Test, Stool Test, X-Ray","Antihistamine, ORS"
+46,Female,Islamabad Capital Territory,25,Kidney Disease,Pneumonia,"Abdominal Pain, Shortness of Breath",Stool Test,"Antimalarial, Paracetamol, Ibuprofen"
+24,Female,Punjab,20,Hypertension,Leishmaniasis,"Shortness of Breath, Muscle Pain","PCR, Blood Test","Paracetamol, Vitamin C"
+39,Male,Islamabad Capital Territory,1,Heart Disease,Leishmaniasis,"Cough, Fatigue, Abdominal Pain, Vomiting, Fever","Stool Test, PCR, CBC","Ibuprofen, Antihistamine, Paracetamol"
+54,Male,Balochistan,9,None,Chickenpox,"Skin Rash, Muscle Pain, Nausea","PCR, CBC, Ultrasound",Ibuprofen
+40,Male,Punjab,30,Asthma,Typhoid,"Shortness of Breath, Nausea, Skin Rash","Ultrasound, Stool Test","Paracetamol, Antihistamine, ORS"
+28,Female,Islamabad Capital Territory,23,Hypertension,Tuberculosis,"Abdominal Pain, Fever, Muscle Pain",Stool Test,"Ibuprofen, Antihistamine, Antibiotics"
+37,Female,Gilgit-Baltistan,28,Heart Disease,Leishmaniasis,"Cough, Shortness of Breath","Urine Test, CBC","Antihistamine, Vitamin C, Ibuprofen"
+37,Female,Punjab,28,Hypertension,Pneumonia,"Fever, Fatigue, Nausea","Stool Test, Urine Test",ORS
+83,Male,Islamabad Capital Territory,17,Diabetes,Hepatitis B,"Fatigue, Skin Rash, Shortness of Breath",CBC,"Vitamin C, Ibuprofen"
+55,Male,Khyber Pakhtunkhwa,26,None,Polio,"Headache, Fatigue","CBC, Urine Test, Stool Test","Antibiotics, Paracetamol"
+32,Male,Islamabad Capital Territory,28,Heart Disease,Scabies,"Abdominal Pain, Shortness of Breath",X-Ray,Vitamin C
+79,Female,Punjab,16,Kidney Disease,Polio,"Headache, Cough, Nausea, Abdominal Pain",X-Ray,"ORS, Vitamin C, Antibiotics"
+13,Male,Khyber Pakhtunkhwa,16,Diabetes,Hepatitis C,"Skin Rash, Muscle Pain, Cough",Stool Test,"Antihistamine, Antibiotics, Antimalarial"
+82,Female,Islamabad Capital Territory,7,None,Pneumonia,"Headache, Shortness of Breath, Muscle Pain, Cough, Vomiting","PCR, CBC, X-Ray","Paracetamol, Antihistamine, Ibuprofen"
+40,Male,Sindh,9,Asthma,Influenza,"Muscle Pain, Shortness of Breath","CBC, Urine Test, X-Ray","ORS, Antibiotics"
+62,Female,Azad Kashmir,23,Hypertension,Meningitis,"Muscle Pain, Nausea, Fever, Cough, Abdominal Pain","Stool Test, CBC, PCR",Paracetamol
+89,Female,Azad Kashmir,5,Asthma,Scabies,"Fever, Cough, Skin Rash","Urine Test, Stool Test","Vitamin C, Antibiotics"
+13,Female,Gilgit-Baltistan,1,Hypertension,Asthma,"Cough, Fatigue, Muscle Pain","CBC, X-Ray, PCR",Vitamin C
+43,Male,Khyber Pakhtunkhwa,14,Hypertension,Hepatitis A,"Vomiting, Muscle Pain, Fatigue, Fever","Ultrasound, PCR, Stool Test",ORS
+83,Female,Azad Kashmir,26,Asthma,Hepatitis B,"Muscle Pain, Vomiting, Fatigue, Abdominal Pain, Shortness of Breath","Blood Test, CBC, X-Ray","Vitamin C, Ibuprofen, Antibiotics"
+29,Female,Balochistan,12,Diabetes,Asthma,"Nausea, Cough, Abdominal Pain","CBC, Stool Test",Antihistamine
+32,Female,Khyber Pakhtunkhwa,28,Asthma,Diarrhea,"Vomiting, Shortness of Breath, Headache, Muscle Pain","Blood Test, Stool Test, PCR","Antihistamine, Paracetamol, ORS"
+38,Female,Islamabad Capital Territory,2,Asthma,Malaria,"Skin Rash, Fever, Nausea, Vomiting, Fatigue","Urine Test, PCR","Antibiotics, Antihistamine"
+4,Female,Azad Kashmir,9,Asthma,Polio,"Muscle Pain, Vomiting, Fever","Urine Test, PCR","Antihistamine, Vitamin C, Paracetamol"
+46,Male,Gilgit-Baltistan,23,None,Rabies,"Vomiting, Muscle Pain",Ultrasound,"ORS, Vitamin C, Antihistamine"
+81,Male,Punjab,3,Heart Disease,Dengue Fever,"Headache, Vomiting, Nausea, Shortness of Breath",Ultrasound,"Paracetamol, Ibuprofen, Vitamin C"
+80,Female,Punjab,17,Kidney Disease,Cholera,"Headache, Skin Rash, Cough","CBC, Stool Test","Vitamin C, Antimalarial"
+6,Female,Khyber Pakhtunkhwa,22,Hypertension,Chickenpox,"Abdominal Pain, Nausea, Cough, Fatigue","Blood Test, Ultrasound",Antibiotics
+9,Female,Azad Kashmir,27,Liver Disease,Hepatitis A,"Skin Rash, Headache, Fatigue, Shortness of Breath",Blood Test,"Paracetamol, Antimalarial, Antibiotics"
+79,Female,Balochistan,22,Hypertension,Hepatitis B,"Muscle Pain, Shortness of Breath, Abdominal Pain","Ultrasound, Stool Test, PCR",Antihistamine
+21,Male,Sindh,29,Liver Disease,Dengue Fever,"Abdominal Pain, Cough, Shortness of Breath","Stool Test, CBC","Antimalarial, Antihistamine, ORS"
+81,Male,Balochistan,6,Liver Disease,Leishmaniasis,"Vomiting, Abdominal Pain, Fatigue","Stool Test, X-Ray","Antibiotics, Antihistamine"
+85,Male,Balochistan,5,Asthma,Tuberculosis,"Headache, Nausea, Skin Rash, Fever, Fatigue","CBC, Stool Test, Urine Test","Paracetamol, Vitamin C"
+90,Female,Islamabad Capital Territory,7,None,Polio,"Fever, Cough, Headache, Shortness of Breath",Urine Test,"Ibuprofen, Vitamin C, Antimalarial"
+32,Male,Azad Kashmir,19,Asthma,Asthma,"Fever, Nausea, Fatigue, Muscle Pain, Shortness of Breath",X-Ray,Paracetamol
+15,Female,Khyber Pakhtunkhwa,3,Diabetes,Asthma,"Cough, Shortness of Breath, Nausea, Abdominal Pain",Urine Test,"Vitamin C, Antihistamine, Antibiotics"
+21,Female,Azad Kashmir,1,Diabetes,Asthma,"Fatigue, Headache, Cough, Skin Rash, Nausea",CBC,"Ibuprofen, Antimalarial, Paracetamol"
+18,Female,Azad Kashmir,2,Hypertension,Hepatitis C,"Fatigue, Shortness of Breath, Cough, Skin Rash, Headache","PCR, X-Ray, Blood Test","Vitamin C, Paracetamol, ORS"
+9,Male,Islamabad Capital Territory,3,Liver Disease,Rabies,"Shortness of Breath, Fever",PCR,Antibiotics
+74,Female,Balochistan,24,Hypertension,Hepatitis A,"Fever, Fatigue, Shortness of Breath, Skin Rash, Headache",Urine Test,Ibuprofen
+5,Male,Khyber Pakhtunkhwa,29,Liver Disease,Leishmaniasis,"Cough, Fatigue, Nausea, Muscle Pain","Ultrasound, CBC","Vitamin C, Antihistamine"
+52,Female,Sindh,9,None,Meningitis,"Skin Rash, Headache, Nausea, Fatigue","Stool Test, Blood Test, Ultrasound",Ibuprofen
+42,Male,Khyber Pakhtunkhwa,25,Asthma,Malaria,"Cough, Headache, Shortness of Breath","X-Ray, Urine Test, CBC","Ibuprofen, Antihistamine"
+58,Male,Balochistan,24,Heart Disease,Leishmaniasis,"Fatigue, Muscle Pain, Cough",Urine Test,"Antimalarial, Ibuprofen"
+87,Male,Azad Kashmir,13,Heart Disease,Diarrhea,"Shortness of Breath, Skin Rash, Vomiting, Abdominal Pain, Headache",Ultrasound,"Antimalarial, Vitamin C, Antibiotics"
+51,Male,Sindh,18,None,Asthma,"Cough, Muscle Pain","Urine Test, Ultrasound, X-Ray","Vitamin C, Antihistamine"
+61,Male,Punjab,5,Hypertension,Dengue Fever,"Muscle Pain, Fever, Skin Rash, Nausea","CBC, Blood Test","ORS, Antihistamine"
+86,Male,Punjab,28,Heart Disease,Measles,"Cough, Abdominal Pain, Vomiting, Fatigue","CBC, X-Ray","Antimalarial, ORS, Antihistamine"
+33,Male,Sindh,3,Asthma,Influenza,"Fatigue, Cough, Shortness of Breath",Ultrasound,"ORS, Antimalarial, Paracetamol"
+7,Female,Khyber Pakhtunkhwa,20,Kidney Disease,Influenza,"Fatigue, Vomiting, Cough","Ultrasound, Stool Test","Vitamin C, Antimalarial"
+39,Male,Sindh,14,Diabetes,Pneumonia,"Shortness of Breath, Vomiting, Skin Rash, Nausea","Urine Test, X-Ray","Paracetamol, Antibiotics"
+41,Male,Gilgit-Baltistan,8,Hypertension,Hepatitis A,"Nausea, Headache, Shortness of Breath, Muscle Pain","X-Ray, CBC, Urine Test","Antimalarial, Paracetamol"
+52,Female,Sindh,12,Hypertension,Leishmaniasis,"Abdominal Pain, Shortness of Breath, Muscle Pain, Fatigue, Skin Rash","X-Ray, Urine Test","Ibuprofen, Antihistamine"
+86,Female,Balochistan,21,Heart Disease,Meningitis,"Fatigue, Nausea",Ultrasound,"Paracetamol, Antimalarial, Antihistamine"
+20,Male,Gilgit-Baltistan,27,None,Measles,"Shortness of Breath, Cough, Fever, Vomiting","Blood Test, CBC, X-Ray",Antihistamine
+67,Male,Azad Kashmir,10,Diabetes,Influenza,"Headache, Cough, Muscle Pain, Fever",CBC,Antimalarial
+40,Male,Punjab,30,Diabetes,Scabies,"Muscle Pain, Vomiting","CBC, PCR","Antihistamine, Ibuprofen"
+14,Male,Islamabad Capital Territory,20,Liver Disease,Rabies,"Muscle Pain, Fatigue, Skin Rash, Vomiting, Cough","X-Ray, Stool Test","Antibiotics, ORS, Antimalarial"
+69,Female,Balochistan,18,Diabetes,Polio,"Skin Rash, Fever, Muscle Pain, Fatigue","PCR, Ultrasound","Ibuprofen, ORS, Antibiotics"
+84,Female,Khyber Pakhtunkhwa,29,None,Scabies,"Nausea, Abdominal Pain, Cough",Stool Test,"Antihistamine, Antimalarial"
+34,Male,Islamabad Capital Territory,29,Liver Disease,Malaria,"Headache, Nausea, Fever, Shortness of Breath, Abdominal Pain","X-Ray, Stool Test, CBC","Ibuprofen, Paracetamol"
+25,Male,Gilgit-Baltistan,26,Heart Disease,Malaria,"Nausea, Headache",Urine Test,Paracetamol
+57,Male,Khyber Pakhtunkhwa,3,Liver Disease,Hepatitis B,"Vomiting, Skin Rash, Fever","Blood Test, CBC, Stool Test",Vitamin C
+32,Female,Punjab,7,Diabetes,Influenza,"Abdominal Pain, Muscle Pain, Skin Rash, Fever, Cough","X-Ray, Blood Test, PCR","Paracetamol, Antihistamine, Antimalarial"
+89,Female,Sindh,22,Liver Disease,Measles,"Cough, Shortness of Breath","PCR, Ultrasound, Blood Test",Antibiotics
+65,Male,Azad Kashmir,1,Kidney Disease,Tuberculosis,"Skin Rash, Shortness of Breath, Vomiting","Ultrasound, CBC","ORS, Antimalarial"
+40,Male,Azad Kashmir,27,Liver Disease,Hepatitis B,"Nausea, Muscle Pain, Fatigue","X-Ray, Blood Test, PCR","Antihistamine, Vitamin C, Paracetamol"
+14,Male,Balochistan,30,None,Cholera,"Cough, Vomiting, Nausea, Fatigue, Headache","Stool Test, X-Ray, Ultrasound",ORS
+67,Female,Balochistan,28,Liver Disease,Measles,"Headache, Nausea","X-Ray, Urine Test, Blood Test","Paracetamol, ORS, Antihistamine"
+38,Male,Islamabad Capital Territory,11,None,Malaria,"Cough, Nausea, Abdominal Pain, Headache, Fatigue",Blood Test,"ORS, Antihistamine"
+49,Male,Islamabad Capital Territory,5,Diabetes,Asthma,"Vomiting, Muscle Pain","X-Ray, Urine Test",Antimalarial
+8,Female,Balochistan,24,Asthma,Polio,"Cough, Fatigue, Shortness of Breath, Fever, Skin Rash","X-Ray, Ultrasound, PCR","Ibuprofen, Vitamin C, Paracetamol"
+6,Male,Khyber Pakhtunkhwa,2,None,Dengue Fever,"Vomiting, Muscle Pain, Abdominal Pain","X-Ray, Blood Test","Antimalarial, Antibiotics, Antihistamine"
+18,Male,Sindh,27,Heart Disease,Hepatitis B,"Abdominal Pain, Headache, Shortness of Breath, Muscle Pain",CBC,"Ibuprofen, Antibiotics, Antihistamine"
+83,Male,Khyber Pakhtunkhwa,26,Diabetes,Malaria,"Cough, Muscle Pain, Vomiting","Stool Test, CBC","Vitamin C, Antihistamine, Antimalarial"
+79,Female,Balochistan,5,Diabetes,Hepatitis C,"Abdominal Pain, Cough","PCR, CBC","Antibiotics, Paracetamol"
+37,Female,Sindh,15,Liver Disease,Asthma,"Vomiting, Headache, Fever, Nausea, Shortness of Breath",X-Ray,Antihistamine
+23,Female,Punjab,11,Heart Disease,Cholera,"Abdominal Pain, Cough","CBC, X-Ray","Antibiotics, ORS, Antihistamine"
+86,Male,Islamabad Capital Territory,13,Heart Disease,Pneumonia,"Fever, Muscle Pain, Cough, Nausea",PCR,Ibuprofen
+31,Female,Khyber Pakhtunkhwa,10,Hypertension,Hepatitis A,"Skin Rash, Fever, Cough, Muscle Pain","Blood Test, Stool Test, CBC","Ibuprofen, Vitamin C"
+3,Female,Sindh,30,Diabetes,Chickenpox,"Nausea, Vomiting, Cough","Blood Test, PCR, CBC",Antihistamine
+87,Female,Khyber Pakhtunkhwa,15,Asthma,Chickenpox,"Skin Rash, Fatigue, Cough","PCR, CBC","ORS, Antimalarial, Ibuprofen"
+41,Female,Gilgit-Baltistan,21,Asthma,Leishmaniasis,"Vomiting, Fatigue, Cough, Nausea, Shortness of Breath","X-Ray, Blood Test","Antimalarial, Antibiotics, Vitamin C"
+79,Male,Punjab,1,Diabetes,Cholera,"Cough, Vomiting, Shortness of Breath","Urine Test, PCR, X-Ray","Antihistamine, Antimalarial, Ibuprofen"
+55,Male,Sindh,21,Liver Disease,Dengue Fever,"Cough, Fever, Headache, Shortness of Breath","X-Ray, PCR, CBC",Antibiotics
+69,Male,Punjab,17,Hypertension,Whooping Cough,"Cough, Fever","PCR, Urine Test, Blood Test","Paracetamol, Antimalarial, Antihistamine"
+16,Female,Azad Kashmir,8,Diabetes,Polio,"Fatigue, Skin Rash, Cough","X-Ray, CBC",Paracetamol
+18,Male,Sindh,23,Liver Disease,Dengue Fever,"Muscle Pain, Skin Rash",CBC,ORS
+6,Male,Punjab,2,Hypertension,Diarrhea,"Nausea, Cough","Stool Test, Urine Test, Ultrasound",Ibuprofen
+68,Male,Sindh,13,Diabetes,Tuberculosis,"Shortness of Breath, Vomiting, Abdominal Pain, Nausea","CBC, Ultrasound, Stool Test",Antihistamine
+47,Male,Islamabad Capital Territory,14,Hypertension,Influenza,"Skin Rash, Shortness of Breath","PCR, Stool Test, Ultrasound",Antibiotics
+82,Male,Islamabad Capital Territory,3,Kidney Disease,Typhoid,"Nausea, Abdominal Pain",X-Ray,"Antimalarial, ORS, Paracetamol"
+18,Male,Azad Kashmir,11,Kidney Disease,Chickenpox,"Fever, Cough, Fatigue, Muscle Pain",PCR,"Vitamin C, Paracetamol"
+89,Female,Sindh,5,Hypertension,Meningitis,"Fatigue, Fever, Shortness of Breath, Nausea, Vomiting","Stool Test, Ultrasound, Urine Test","Antibiotics, Antihistamine, Paracetamol"
+26,Female,Punjab,16,Liver Disease,Rabies,"Headache, Fever","PCR, X-Ray, Blood Test","Antibiotics, Antihistamine"
+56,Male,Sindh,25,Kidney Disease,Malaria,"Vomiting, Fatigue, Nausea","Ultrasound, PCR","Antibiotics, ORS"
+27,Male,Islamabad Capital Territory,18,Hypertension,Cholera,"Cough, Abdominal Pain, Muscle Pain, Fatigue, Fever",Ultrasound,Paracetamol
+47,Male,Punjab,7,Hypertension,Pneumonia,"Fatigue, Nausea, Headache, Skin Rash","Ultrasound, PCR, X-Ray","Ibuprofen, Antimalarial, Antihistamine"
+28,Male,Balochistan,10,Diabetes,Dengue Fever,"Vomiting, Cough, Nausea",PCR,"Ibuprofen, Vitamin C, ORS"
+11,Female,Sindh,4,Liver Disease,Hepatitis B,"Shortness of Breath, Abdominal Pain, Fever, Headache, Muscle Pain","Urine Test, Blood Test","ORS, Vitamin C, Antihistamine"
+21,Female,Islamabad Capital Territory,20,Liver Disease,Rabies,"Cough, Muscle Pain, Skin Rash","X-Ray, Stool Test",Antimalarial
+69,Female,Azad Kashmir,17,Heart Disease,Tuberculosis,"Nausea, Cough, Abdominal Pain","Urine Test, Stool Test",ORS
+81,Female,Khyber Pakhtunkhwa,4,Heart Disease,Typhoid,"Fatigue, Cough, Skin Rash, Shortness of Breath, Muscle Pain","Urine Test, Blood Test",Paracetamol
+77,Male,Punjab,20,None,Diarrhea,"Cough, Muscle Pain, Abdominal Pain","Urine Test, Stool Test",Paracetamol
+35,Female,Punjab,3,Kidney Disease,Hepatitis C,"Muscle Pain, Vomiting, Skin Rash, Nausea",Urine Test,"Ibuprofen, Antihistamine"
+69,Male,Balochistan,15,Liver Disease,Diarrhea,"Shortness of Breath, Fatigue, Skin Rash, Headache, Fever",Stool Test,ORS
+8,Male,Islamabad Capital Territory,7,Diabetes,Polio,"Skin Rash, Nausea","Urine Test, PCR","Antibiotics, Ibuprofen, Antimalarial"
+59,Male,Punjab,23,Heart Disease,Measles,"Fever, Muscle Pain, Headache, Fatigue, Nausea","Blood Test, X-Ray",Antimalarial
+44,Female,Balochistan,19,Hypertension,Cholera,"Abdominal Pain, Cough, Shortness of Breath, Nausea, Fatigue","Ultrasound, Blood Test, Stool Test","Vitamin C, Ibuprofen"
+1,Male,Khyber Pakhtunkhwa,8,Kidney Disease,Pneumonia,"Fever, Shortness of Breath","Ultrasound, X-Ray",Antimalarial
+25,Male,Punjab,9,Liver Disease,Cholera,"Fatigue, Cough, Abdominal Pain, Shortness of Breath, Skin Rash","X-Ray, Ultrasound, CBC",Ibuprofen
+84,Male,Punjab,24,Kidney Disease,Dengue Fever,"Fever, Headache",X-Ray,"Vitamin C, Ibuprofen"
+41,Male,Azad Kashmir,8,Kidney Disease,Influenza,"Cough, Skin Rash","PCR, Ultrasound","Antibiotics, ORS"
+78,Female,Punjab,6,Kidney Disease,Hepatitis C,"Shortness of Breath, Fatigue","Blood Test, Urine Test",Antimalarial
+44,Male,Balochistan,22,Liver Disease,Pneumonia,"Fatigue, Skin Rash, Muscle Pain, Headache",PCR,"Antihistamine, Antimalarial"
+62,Female,Islamabad Capital Territory,9,Diabetes,Asthma,"Fatigue, Cough, Vomiting, Muscle Pain",X-Ray,Vitamin C
+54,Male,Punjab,15,Liver Disease,Rabies,"Fatigue, Fever, Shortness of Breath","PCR, Stool Test",Ibuprofen
+67,Female,Punjab,27,Asthma,Hepatitis C,"Muscle Pain, Fatigue, Cough, Nausea","Blood Test, CBC, PCR","Antihistamine, Antimalarial, Vitamin C"
+8,Male,Gilgit-Baltistan,14,Diabetes,Meningitis,"Fever, Muscle Pain, Shortness of Breath, Cough, Headache","X-Ray, PCR",Antimalarial
+21,Male,Khyber Pakhtunkhwa,18,Kidney Disease,Hepatitis C,"Vomiting, Skin Rash, Shortness of Breath, Abdominal Pain, Muscle Pain","CBC, Urine Test","Antihistamine, Vitamin C"
+38,Female,Sindh,2,Asthma,Typhoid,"Nausea, Abdominal Pain, Shortness of Breath, Vomiting",Blood Test,Antimalarial
+18,Male,Balochistan,24,Asthma,Tuberculosis,"Fever, Shortness of Breath, Nausea",Stool Test,Antihistamine
+89,Female,Islamabad Capital Territory,26,Kidney Disease,Hepatitis C,"Nausea, Headache, Fever, Vomiting",Urine Test,"Antimalarial, ORS"
+2,Female,Punjab,3,Liver Disease,Hepatitis A,"Fever, Vomiting","Blood Test, X-Ray",ORS
+6,Female,Khyber Pakhtunkhwa,23,None,Leishmaniasis,"Skin Rash, Vomiting, Nausea, Fatigue, Muscle Pain",Ultrasound,"Antimalarial, ORS, Antibiotics"
+67,Female,Islamabad Capital Territory,18,Liver Disease,Whooping Cough,"Nausea, Fatigue, Vomiting, Skin Rash, Shortness of Breath",X-Ray,"Paracetamol, Ibuprofen"
+7,Male,Balochistan,21,Hypertension,Chickenpox,"Fever, Cough","CBC, Stool Test, Blood Test","ORS, Ibuprofen"
+10,Female,Punjab,18,Diabetes,Typhoid,"Cough, Muscle Pain, Vomiting","PCR, Blood Test, CBC",Paracetamol
+70,Male,Balochistan,8,Asthma,Cholera,"Nausea, Cough, Shortness of Breath, Fatigue, Headache",Ultrasound,"Paracetamol, Ibuprofen"
+53,Male,Khyber Pakhtunkhwa,3,None,Meningitis,"Skin Rash, Vomiting","PCR, CBC, Blood Test",Ibuprofen
+70,Male,Sindh,11,Hypertension,Typhoid,"Shortness of Breath, Skin Rash","Blood Test, Urine Test",Antimalarial
+5,Male,Islamabad Capital Territory,3,Kidney Disease,Pneumonia,"Vomiting, Fatigue, Shortness of Breath","X-Ray, PCR",ORS
+52,Male,Punjab,23,None,Malaria,"Headache, Shortness of Breath","Stool Test, X-Ray",Paracetamol
+5,Male,Khyber Pakhtunkhwa,4,Heart Disease,Scabies,"Abdominal Pain, Headache, Nausea","CBC, PCR, X-Ray","Ibuprofen, Vitamin C, Paracetamol"
+50,Male,Sindh,23,Hypertension,Hepatitis B,"Shortness of Breath, Nausea, Skin Rash","Stool Test, Urine Test","Paracetamol, Antibiotics"
+49,Female,Azad Kashmir,24,Kidney Disease,Influenza,"Nausea, Headache, Fever",CBC,"Antihistamine, Vitamin C"
+65,Male,Islamabad Capital Territory,1,Diabetes,Chickenpox,"Fatigue, Muscle Pain, Headache, Nausea, Skin Rash","Stool Test, Ultrasound",ORS
+9,Female,Khyber Pakhtunkhwa,23,Kidney Disease,Rabies,"Skin Rash, Headache, Fatigue","CBC, Urine Test",ORS
+33,Female,Punjab,29,Kidney Disease,Typhoid,"Headache, Fever",CBC,Ibuprofen
+50,Male,Gilgit-Baltistan,17,Kidney Disease,Malaria,"Headache, Muscle Pain","Ultrasound, PCR, CBC","Ibuprofen, Antibiotics, Paracetamol"
+50,Female,Islamabad Capital Territory,11,Heart Disease,Whooping Cough,"Cough, Skin Rash, Nausea, Abdominal Pain, Fever","PCR, CBC, X-Ray","Vitamin C, Paracetamol"
+19,Male,Sindh,11,Diabetes,Hepatitis B,"Shortness of Breath, Cough, Vomiting, Fever",CBC,"Paracetamol, Antibiotics"
+62,Female,Khyber Pakhtunkhwa,23,Hypertension,Dengue Fever,"Fever, Muscle Pain","Blood Test, PCR",Paracetamol
+8,Male,Sindh,22,Heart Disease,Whooping Cough,"Fever, Vomiting",PCR,"Antihistamine, ORS"
+83,Male,Sindh,22,Diabetes,Scabies,"Vomiting, Nausea, Cough, Shortness of Breath, Fever",X-Ray,"Antimalarial, Paracetamol, Vitamin C"
+25,Female,Gilgit-Baltistan,4,Hypertension,Leishmaniasis,"Fever, Headache, Skin Rash, Abdominal Pain","Ultrasound, Blood Test","Antihistamine, ORS"
+74,Female,Punjab,22,Asthma,Influenza,"Abdominal Pain, Cough, Skin Rash, Headache",Ultrasound,"ORS, Antimalarial, Paracetamol"
+9,Female,Gilgit-Baltistan,13,Kidney Disease,Typhoid,"Skin Rash, Fever, Headache","Blood Test, Urine Test","Ibuprofen, Antimalarial"
+62,Male,Azad Kashmir,29,Asthma,Leishmaniasis,"Cough, Fatigue, Fever, Vomiting","X-Ray, Stool Test, Blood Test","Vitamin C, Ibuprofen"
+80,Female,Islamabad Capital Territory,27,None,Hepatitis B,"Fatigue, Shortness of Breath, Headache",PCR,"Paracetamol, Vitamin C, Antibiotics"
+60,Female,Balochistan,21,Hypertension,Chickenpox,"Headache, Fatigue, Cough, Muscle Pain",X-Ray,Ibuprofen
+62,Male,Gilgit-Baltistan,20,Liver Disease,Polio,"Nausea, Skin Rash, Fatigue","Stool Test, Urine Test, CBC","Ibuprofen, ORS, Vitamin C"
+30,Female,Islamabad Capital Territory,8,None,Asthma,"Fatigue, Shortness of Breath","CBC, Blood Test",Antimalarial
+19,Male,Islamabad Capital Territory,22,Liver Disease,Polio,"Cough, Skin Rash, Fever, Abdominal Pain","X-Ray, Stool Test, Urine Test","Antibiotics, Ibuprofen, Antimalarial"
+16,Male,Sindh,30,Liver Disease,Typhoid,"Cough, Skin Rash, Headache, Fever",CBC,Antibiotics
+31,Male,Sindh,12,Hypertension,Whooping Cough,"Skin Rash, Nausea, Abdominal Pain, Fever, Vomiting",PCR,"Paracetamol, ORS"
+51,Male,Azad Kashmir,24,Liver Disease,Cholera,"Shortness of Breath, Muscle Pain, Cough","CBC, Urine Test","Antibiotics, Antimalarial"
+5,Female,Punjab,7,Kidney Disease,Measles,"Vomiting, Skin Rash, Abdominal Pain, Fatigue","CBC, PCR, Stool Test","Vitamin C, ORS, Antihistamine"
+4,Female,Azad Kashmir,9,Liver Disease,Influenza,"Nausea, Headache, Skin Rash","PCR, X-Ray, Blood Test",Antimalarial
+75,Male,Azad Kashmir,23,Diabetes,Pneumonia,"Skin Rash, Abdominal Pain, Fever","CBC, PCR","Vitamin C, Antimalarial"
+88,Female,Punjab,23,Asthma,Meningitis,"Skin Rash, Abdominal Pain, Fatigue, Fever",X-Ray,Ibuprofen
+49,Female,Punjab,30,None,Influenza,"Muscle Pain, Skin Rash, Abdominal Pain",Urine Test,"Antihistamine, Vitamin C, Ibuprofen"
+32,Male,Sindh,26,Diabetes,Scabies,"Fever, Fatigue, Headache","PCR, Ultrasound","ORS, Antimalarial"
+60,Male,Khyber Pakhtunkhwa,1,Diabetes,Leishmaniasis,"Abdominal Pain, Muscle Pain, Cough, Vomiting","X-Ray, Blood Test","Ibuprofen, Paracetamol, ORS"
+71,Female,Islamabad Capital Territory,25,Kidney Disease,Chickenpox,"Shortness of Breath, Fever, Nausea, Cough, Abdominal Pain","Ultrasound, Blood Test",Antibiotics
+16,Male,Islamabad Capital Territory,12,Hypertension,Rabies,"Abdominal Pain, Fatigue, Fever",PCR,"ORS, Ibuprofen"
+76,Male,Khyber Pakhtunkhwa,15,Kidney Disease,Hepatitis C,"Cough, Headache, Fatigue, Muscle Pain, Skin Rash","X-Ray, Stool Test","Antihistamine, Paracetamol"
+24,Female,Gilgit-Baltistan,27,None,Whooping Cough,"Shortness of Breath, Cough, Abdominal Pain","Blood Test, X-Ray, Urine Test","Paracetamol, Antibiotics, Ibuprofen"
+19,Male,Azad Kashmir,29,Diabetes,Dengue Fever,"Muscle Pain, Nausea, Vomiting","Urine Test, Ultrasound, CBC",ORS
+31,Female,Punjab,3,Kidney Disease,Chickenpox,"Shortness of Breath, Fatigue, Headache",Stool Test,Ibuprofen
+8,Male,Balochistan,17,Heart Disease,Meningitis,"Fever, Muscle Pain, Cough","PCR, X-Ray","Antibiotics, Vitamin C, Paracetamol"
+58,Female,Punjab,24,Liver Disease,Chickenpox,"Skin Rash, Headache, Abdominal Pain, Shortness of Breath, Vomiting","Urine Test, PCR, CBC","Paracetamol, Ibuprofen, ORS"
+30,Male,Sindh,25,Kidney Disease,Whooping Cough,"Vomiting, Muscle Pain, Cough",X-Ray,Antibiotics
+68,Female,Khyber Pakhtunkhwa,18,Asthma,Typhoid,"Muscle Pain, Abdominal Pain, Nausea","PCR, Ultrasound","Ibuprofen, ORS, Paracetamol"
+77,Female,Azad Kashmir,26,Hypertension,Pneumonia,"Cough, Nausea, Shortness of Breath","Ultrasound, Urine Test, X-Ray","Paracetamol, ORS, Antibiotics"
+37,Female,Balochistan,21,Asthma,Hepatitis A,"Fever, Skin Rash, Shortness of Breath, Nausea, Cough",Urine Test,Antihistamine
+84,Female,Balochistan,7,Hypertension,Hepatitis B,"Vomiting, Skin Rash, Headache, Fever","Blood Test, Urine Test, Stool Test","Ibuprofen, Antihistamine"
+34,Male,Khyber Pakhtunkhwa,11,Hypertension,Hepatitis B,"Muscle Pain, Vomiting, Cough, Fever, Shortness of Breath","PCR, CBC, Blood Test","Antihistamine, Paracetamol"
+72,Male,Khyber Pakhtunkhwa,7,Hypertension,Whooping Cough,"Fever, Cough, Vomiting, Nausea, Headache","PCR, Blood Test","Paracetamol, ORS, Antibiotics"
+74,Male,Khyber Pakhtunkhwa,18,Heart Disease,Pneumonia,"Muscle Pain, Abdominal Pain, Nausea, Vomiting",PCR,"Paracetamol, Ibuprofen"
+70,Male,Khyber Pakhtunkhwa,24,Heart Disease,Hepatitis A,"Fatigue, Muscle Pain, Abdominal Pain","Urine Test, X-Ray","ORS, Paracetamol, Antimalarial"
+82,Female,Balochistan,1,Liver Disease,Cholera,"Fatigue, Muscle Pain","Ultrasound, PCR","Antibiotics, ORS"
+66,Female,Punjab,9,Liver Disease,Dengue Fever,"Abdominal Pain, Skin Rash, Fever, Vomiting",CBC,"Ibuprofen, Antimalarial"
+39,Female,Gilgit-Baltistan,19,Heart Disease,Typhoid,"Fatigue, Abdominal Pain, Cough, Skin Rash",Blood Test,"Paracetamol, Ibuprofen"
+68,Female,Azad Kashmir,7,Hypertension,Hepatitis A,"Abdominal Pain, Headache, Muscle Pain, Fever, Cough",CBC,"Antimalarial, Antibiotics"
+25,Female,Azad Kashmir,29,Hypertension,Typhoid,"Fatigue, Nausea, Cough",X-Ray,Paracetamol
+31,Female,Gilgit-Baltistan,14,Heart Disease,Tuberculosis,"Vomiting, Headache, Nausea, Fever, Shortness of Breath","Stool Test, X-Ray, PCR","Paracetamol, Antimalarial, Antibiotics"
+25,Male,Azad Kashmir,12,Asthma,Typhoid,"Cough, Fatigue, Fever, Skin Rash, Headache","X-Ray, CBC",Antibiotics
+69,Male,Gilgit-Baltistan,5,Asthma,Meningitis,"Shortness of Breath, Vomiting, Cough, Abdominal Pain, Fatigue","Blood Test, Urine Test","Antibiotics, Paracetamol, Antihistamine"
+16,Female,Azad Kashmir,25,Liver Disease,Hepatitis B,"Abdominal Pain, Skin Rash, Fever, Shortness of Breath","Ultrasound, CBC, PCR",Antihistamine
+2,Female,Khyber Pakhtunkhwa,22,Heart Disease,Dengue Fever,"Shortness of Breath, Fatigue, Abdominal Pain, Cough","Stool Test, Urine Test, X-Ray","Antihistamine, Antibiotics, Ibuprofen"
+23,Male,Sindh,14,None,Typhoid,"Nausea, Muscle Pain, Shortness of Breath, Skin Rash, Abdominal Pain",Urine Test,Paracetamol
+38,Male,Khyber Pakhtunkhwa,16,Liver Disease,Chickenpox,"Nausea, Headache, Fatigue, Shortness of Breath, Cough","Urine Test, Stool Test, X-Ray",Antihistamine
+80,Female,Balochistan,12,None,Leishmaniasis,"Skin Rash, Abdominal Pain, Headache, Shortness of Breath, Fever",Urine Test,Antimalarial
+15,Female,Sindh,11,Heart Disease,Meningitis,"Fever, Muscle Pain, Headache","Urine Test, Stool Test, X-Ray","Vitamin C, Antimalarial, Paracetamol"
+65,Male,Gilgit-Baltistan,2,Diabetes,Hepatitis C,"Nausea, Skin Rash, Headache","CBC, PCR",Vitamin C
+69,Male,Khyber Pakhtunkhwa,21,Diabetes,Chickenpox,"Vomiting, Abdominal Pain, Cough","Ultrasound, PCR, Blood Test","Ibuprofen, Antibiotics, Antihistamine"
+26,Female,Balochistan,6,Liver Disease,Leishmaniasis,"Muscle Pain, Abdominal Pain, Shortness of Breath","CBC, Blood Test, PCR","Vitamin C, Antibiotics"
+80,Female,Punjab,14,Diabetes,Asthma,"Nausea, Shortness of Breath, Skin Rash","PCR, CBC","Vitamin C, ORS"
+11,Female,Punjab,7,Heart Disease,Polio,"Fever, Muscle Pain, Headache, Shortness of Breath, Nausea","Urine Test, Blood Test","Antibiotics, Antihistamine"
+26,Male,Gilgit-Baltistan,9,None,Malaria,"Cough, Vomiting, Fatigue, Abdominal Pain",Ultrasound,Paracetamol
+29,Female,Sindh,9,Diabetes,Chickenpox,"Muscle Pain, Skin Rash, Headache, Nausea, Vomiting","Stool Test, CBC, Ultrasound","Vitamin C, Antihistamine"
+27,Male,Islamabad Capital Territory,1,Kidney Disease,Rabies,"Skin Rash, Fever, Fatigue, Abdominal Pain","Blood Test, X-Ray","Antihistamine, Antimalarial, Antibiotics"
+24,Female,Azad Kashmir,19,None,Cholera,"Fatigue, Skin Rash, Muscle Pain, Abdominal Pain","PCR, Stool Test","Ibuprofen, Antimalarial"
+82,Female,Islamabad Capital Territory,20,Heart Disease,Polio,"Nausea, Muscle Pain, Fever, Shortness of Breath","PCR, Ultrasound","Antihistamine, Vitamin C"
+51,Male,Khyber Pakhtunkhwa,1,Hypertension,Scabies,"Fatigue, Nausea, Vomiting, Headache, Muscle Pain","Blood Test, Stool Test","ORS, Antibiotics, Vitamin C"
+67,Female,Balochistan,9,None,Diarrhea,"Skin Rash, Muscle Pain, Nausea, Abdominal Pain",PCR,"Antimalarial, Vitamin C, ORS"
+23,Female,Khyber Pakhtunkhwa,27,Liver Disease,Scabies,"Cough, Vomiting, Abdominal Pain, Nausea, Muscle Pain",Stool Test,"Paracetamol, Ibuprofen"
+56,Male,Gilgit-Baltistan,4,Kidney Disease,Diarrhea,"Fatigue, Shortness of Breath, Vomiting","Ultrasound, X-Ray","Ibuprofen, Antihistamine, Antibiotics"
+5,Female,Gilgit-Baltistan,25,None,Leishmaniasis,"Abdominal Pain, Fatigue, Vomiting, Fever","Ultrasound, X-Ray","Antibiotics, Paracetamol, Antimalarial"
+89,Male,Balochistan,15,Asthma,Hepatitis B,"Shortness of Breath, Fever, Cough",Ultrasound,ORS
+11,Male,Balochistan,20,Heart Disease,Malaria,"Cough, Nausea, Vomiting, Fever","Blood Test, Ultrasound, X-Ray","ORS, Ibuprofen, Antimalarial"
+71,Male,Punjab,14,Liver Disease,Chickenpox,"Nausea, Shortness of Breath",Ultrasound,"Ibuprofen, ORS, Antibiotics"
+32,Female,Khyber Pakhtunkhwa,10,Asthma,Typhoid,"Muscle Pain, Abdominal Pain, Vomiting, Headache",CBC,"Antihistamine, Antimalarial"
+76,Male,Gilgit-Baltistan,7,Liver Disease,Hepatitis B,"Vomiting, Muscle Pain, Abdominal Pain, Nausea","Urine Test, Stool Test, X-Ray","Antimalarial, Antihistamine, Antibiotics"
+29,Male,Khyber Pakhtunkhwa,13,Kidney Disease,Hepatitis B,"Cough, Shortness of Breath","Stool Test, Blood Test","ORS, Ibuprofen, Paracetamol"
+5,Male,Azad Kashmir,26,Hypertension,Tuberculosis,"Muscle Pain, Headache, Nausea","PCR, Urine Test, CBC","Antibiotics, Antimalarial"
+36,Female,Azad Kashmir,1,Hypertension,Hepatitis B,"Skin Rash, Cough, Abdominal Pain, Shortness of Breath, Nausea","Ultrasound, Urine Test","Vitamin C, Paracetamol"
+87,Male,Gilgit-Baltistan,1,Hypertension,Malaria,"Vomiting, Fever, Fatigue, Shortness of Breath",Ultrasound,"Antimalarial, Antibiotics"
+86,Female,Islamabad Capital Territory,13,Diabetes,Pneumonia,"Vomiting, Muscle Pain, Fatigue, Shortness of Breath, Headache","PCR, X-Ray","Vitamin C, ORS, Paracetamol"
+82,Female,Gilgit-Baltistan,11,Liver Disease,Whooping Cough,"Headache, Shortness of Breath, Nausea","X-Ray, Urine Test, Blood Test","Antibiotics, Antimalarial, Antihistamine"
+80,Female,Gilgit-Baltistan,19,Asthma,Hepatitis A,"Abdominal Pain, Vomiting, Fever, Shortness of Breath, Muscle Pain",Stool Test,"Antihistamine, Ibuprofen"
+47,Female,Islamabad Capital Territory,6,Heart Disease,Hepatitis C,"Cough, Vomiting, Abdominal Pain, Headache, Shortness of Breath","Stool Test, Ultrasound, X-Ray","Ibuprofen, ORS, Vitamin C"
+46,Male,Sindh,14,Diabetes,Dengue Fever,"Abdominal Pain, Cough, Skin Rash, Vomiting","PCR, CBC, Urine Test","Antimalarial, Ibuprofen"
+76,Female,Islamabad Capital Territory,28,None,Leishmaniasis,"Muscle Pain, Fever, Shortness of Breath, Headache",CBC,ORS
+39,Female,Azad Kashmir,20,None,Malaria,"Muscle Pain, Fever, Fatigue, Cough, Abdominal Pain",Stool Test,Antihistamine
+5,Female,Islamabad Capital Territory,2,None,Asthma,"Skin Rash, Nausea, Abdominal Pain, Cough",X-Ray,"Ibuprofen, Vitamin C, Antihistamine"
+41,Male,Sindh,11,Diabetes,Asthma,"Abdominal Pain, Muscle Pain","PCR, Blood Test","Antimalarial, ORS, Paracetamol"
+74,Male,Azad Kashmir,3,Asthma,Tuberculosis,"Shortness of Breath, Fever, Abdominal Pain",PCR,"ORS, Paracetamol, Antimalarial"
+83,Male,Balochistan,19,Asthma,Dengue Fever,"Fatigue, Skin Rash, Fever, Nausea, Cough",Urine Test,"Antihistamine, Antibiotics"
+82,Female,Azad Kashmir,24,Asthma,Diarrhea,"Nausea, Skin Rash","PCR, Urine Test","Antimalarial, Paracetamol, Vitamin C"
+38,Male,Islamabad Capital Territory,18,Heart Disease,Influenza,"Muscle Pain, Fatigue, Nausea, Cough",PCR,Antihistamine
+51,Female,Gilgit-Baltistan,25,None,Cholera,"Muscle Pain, Headache, Cough, Fatigue","Stool Test, Ultrasound","Antibiotics, Vitamin C"
+28,Female,Azad Kashmir,2,Hypertension,Dengue Fever,"Skin Rash, Abdominal Pain, Vomiting",Blood Test,"Antimalarial, Paracetamol, Ibuprofen"
+80,Male,Khyber Pakhtunkhwa,17,None,Asthma,"Muscle Pain, Skin Rash","Stool Test, X-Ray, Urine Test",Antimalarial
+65,Male,Islamabad Capital Territory,30,Heart Disease,Asthma,"Nausea, Cough, Abdominal Pain",Urine Test,"Antimalarial, Antibiotics"
+56,Female,Azad Kashmir,4,Asthma,Polio,"Fever, Vomiting",Urine Test,Ibuprofen
+55,Female,Balochistan,17,None,Scabies,"Skin Rash, Abdominal Pain, Shortness of Breath, Nausea, Fever","Urine Test, CBC","Vitamin C, Antimalarial, Paracetamol"
+67,Female,Islamabad Capital Territory,4,None,Polio,"Fever, Skin Rash","Ultrasound, PCR",Vitamin C
+61,Female,Azad Kashmir,10,Diabetes,Hepatitis A,"Vomiting, Cough, Headache","Blood Test, CBC, Ultrasound","Antimalarial, Vitamin C, Antihistamine"
+61,Male,Islamabad Capital Territory,24,Hypertension,Polio,"Headache, Shortness of Breath, Abdominal Pain, Fatigue","Blood Test, Urine Test, Ultrasound","Vitamin C, Antibiotics, Ibuprofen"
+25,Male,Punjab,24,Hypertension,Meningitis,"Shortness of Breath, Vomiting, Skin Rash","CBC, X-Ray, Blood Test","Antibiotics, Vitamin C, Paracetamol"
+62,Female,Punjab,7,Liver Disease,Malaria,"Fatigue, Abdominal Pain, Shortness of Breath, Headache, Fever","Urine Test, PCR","Antibiotics, Paracetamol"
+8,Female,Khyber Pakhtunkhwa,8,Asthma,Hepatitis A,"Vomiting, Cough, Fatigue, Abdominal Pain, Shortness of Breath","Stool Test, X-Ray","Ibuprofen, ORS, Paracetamol"
+74,Male,Khyber Pakhtunkhwa,25,Asthma,Tuberculosis,"Shortness of Breath, Fatigue","Ultrasound, X-Ray",Antihistamine
+54,Female,Islamabad Capital Territory,14,Liver Disease,Chickenpox,"Abdominal Pain, Cough",CBC,"ORS, Antibiotics, Paracetamol"
+40,Female,Azad Kashmir,28,Diabetes,Typhoid,"Vomiting, Fatigue, Nausea, Abdominal Pain, Cough",Blood Test,Antihistamine
+34,Female,Azad Kashmir,1,Heart Disease,Typhoid,"Cough, Shortness of Breath, Vomiting","PCR, X-Ray","Vitamin C, Paracetamol, ORS"
+21,Male,Gilgit-Baltistan,11,Hypertension,Chickenpox,"Fatigue, Cough, Fever, Abdominal Pain","PCR, X-Ray","Antimalarial, Paracetamol"
+42,Male,Punjab,3,Liver Disease,Typhoid,"Headache, Cough","Blood Test, Urine Test, CBC","Antibiotics, Vitamin C, Antihistamine"
