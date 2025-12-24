@@ -349,11 +349,13 @@ else:
         We are a team of Software Engineering students passionate about leveraging AI for healthcare innovation.  
         MediAid AI aims to bring early disease awareness through intelligent prediction.
 
-        **Team Members**  
+        **Team Members**
+                    
+        👨‍💻 Suleman  
         🧑‍💻 Awais  
         👩‍💻 Urooj  
         👨‍💻 Aqib  
-        👨‍💻 Suleman  
+          
         """)
         st.markdown("</div>", unsafe_allow_html=True)
 
